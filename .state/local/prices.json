@@ -1,0 +1,14 @@
+{
+  "last_prices": {
+    "bitcoin": "2025-08-31",
+    "ethereum": "2025-08-31",
+    "ripple": "2025-08-31"
+  },
+  "last_updated": "2025-08-31T08:07:20.827006+00:00",
+  "total_coins": 3,
+  "_metadata": {
+    "updated_at": "2025-08-31T17:07:20.827085",
+    "run_id": "test-rate-limit",
+    "connector": "coingecko"
+  }
+}

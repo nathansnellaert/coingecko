@@ -1,0 +1,5011 @@
+{
+  "tracked_coins": {
+    "bitcoin": {
+      "first_seen": "2025-08-28T12:11:55.874699",
+      "name": "Bitcoin",
+      "symbol": "BTC"
+    },
+    "ethereum": {
+      "first_seen": "2025-08-28T12:11:55.874716",
+      "name": "Ethereum",
+      "symbol": "ETH"
+    },
+    "ripple": {
+      "first_seen": "2025-08-28T12:11:55.874721",
+      "name": "XRP",
+      "symbol": "XRP"
+    },
+    "tether": {
+      "first_seen": "2025-08-28T12:11:55.874725",
+      "name": "Tether",
+      "symbol": "USDT"
+    },
+    "binancecoin": {
+      "first_seen": "2025-08-28T12:11:55.874729",
+      "name": "BNB",
+      "symbol": "BNB"
+    },
+    "solana": {
+      "first_seen": "2025-08-28T12:11:55.874733",
+      "name": "Solana",
+      "symbol": "SOL"
+    },
+    "usd-coin": {
+      "first_seen": "2025-08-28T12:11:55.874737",
+      "name": "USDC",
+      "symbol": "USDC"
+    },
+    "staked-ether": {
+      "first_seen": "2025-08-28T12:11:55.874745",
+      "name": "Lido Staked Ether",
+      "symbol": "STETH"
+    },
+    "dogecoin": {
+      "first_seen": "2025-08-28T12:11:55.874749",
+      "name": "Dogecoin",
+      "symbol": "DOGE"
+    },
+    "tron": {
+      "first_seen": "2025-08-28T12:11:55.874753",
+      "name": "TRON",
+      "symbol": "TRX"
+    },
+    "cardano": {
+      "first_seen": "2025-08-28T12:11:55.874757",
+      "name": "Cardano",
+      "symbol": "ADA"
+    },
+    "wrapped-steth": {
+      "first_seen": "2025-08-28T12:11:55.874759",
+      "name": "Wrapped stETH",
+      "symbol": "WSTETH"
+    },
+    "chainlink": {
+      "first_seen": "2025-08-28T12:11:55.874762",
+      "name": "Chainlink",
+      "symbol": "LINK"
+    },
+    "wrapped-beacon-eth": {
+      "first_seen": "2025-08-28T12:11:55.874765",
+      "name": "Wrapped Beacon ETH",
+      "symbol": "WBETH"
+    },
+    "wrapped-bitcoin": {
+      "first_seen": "2025-08-28T12:11:55.874768",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC"
+    },
+    "hyperliquid": {
+      "first_seen": "2025-08-28T12:11:55.874771",
+      "name": "Hyperliquid",
+      "symbol": "HYPE"
+    },
+    "crypto-com-chain": {
+      "first_seen": "2025-08-28T12:11:55.874773",
+      "name": "Cronos",
+      "symbol": "CRO"
+    },
+    "wrapped-eeth": {
+      "first_seen": "2025-08-28T12:11:55.874778",
+      "name": "Wrapped eETH",
+      "symbol": "WEETH"
+    },
+    "sui": {
+      "first_seen": "2025-08-28T12:11:55.874781",
+      "name": "Sui",
+      "symbol": "SUI"
+    },
+    "ethena-usde": {
+      "first_seen": "2025-08-28T12:11:55.874784",
+      "name": "Ethena USDe",
+      "symbol": "USDE"
+    },
+    "stellar": {
+      "first_seen": "2025-08-28T12:11:55.874786",
+      "name": "Stellar",
+      "symbol": "XLM"
+    },
+    "bitcoin-cash": {
+      "first_seen": "2025-08-28T12:11:55.874789",
+      "name": "Bitcoin Cash",
+      "symbol": "BCH"
+    },
+    "avalanche-2": {
+      "first_seen": "2025-08-28T12:11:55.874792",
+      "name": "Avalanche",
+      "symbol": "AVAX"
+    },
+    "weth": {
+      "first_seen": "2025-08-28T12:11:55.874795",
+      "name": "WETH",
+      "symbol": "WETH"
+    },
+    "hedera-hashgraph": {
+      "first_seen": "2025-08-28T12:11:55.874797",
+      "name": "Hedera",
+      "symbol": "HBAR"
+    },
+    "leo-token": {
+      "first_seen": "2025-08-28T12:11:55.874799",
+      "name": "LEO Token",
+      "symbol": "LEO"
+    },
+    "litecoin": {
+      "first_seen": "2025-08-28T12:11:55.874802",
+      "name": "Litecoin",
+      "symbol": "LTC"
+    },
+    "the-open-network": {
+      "first_seen": "2025-08-28T12:11:55.874805",
+      "name": "Toncoin",
+      "symbol": "TON"
+    },
+    "usds": {
+      "first_seen": "2025-08-28T12:11:55.874807",
+      "name": "USDS",
+      "symbol": "USDS"
+    },
+    "shiba-inu": {
+      "first_seen": "2025-08-28T12:11:55.874810",
+      "name": "Shiba Inu",
+      "symbol": "SHIB"
+    },
+    "binance-bridged-usdt-bnb-smart-chain": {
+      "first_seen": "2025-08-28T12:11:55.874812",
+      "name": "Binance Bridged USDT (BNB Smart Chain)",
+      "symbol": "BSC-USD"
+    },
+    "whitebit": {
+      "first_seen": "2025-08-28T12:11:55.874814",
+      "name": "WhiteBIT Coin",
+      "symbol": "WBT"
+    },
+    "coinbase-wrapped-btc": {
+      "first_seen": "2025-08-28T12:11:55.874817",
+      "name": "Coinbase Wrapped BTC",
+      "symbol": "CBBTC"
+    },
+    "polkadot": {
+      "first_seen": "2025-08-28T12:11:55.874819",
+      "name": "Polkadot",
+      "symbol": "DOT"
+    },
+    "uniswap": {
+      "first_seen": "2025-08-28T12:11:55.874822",
+      "name": "Uniswap",
+      "symbol": "UNI"
+    },
+    "ethena-staked-usde": {
+      "first_seen": "2025-08-28T12:11:55.874824",
+      "name": "Ethena Staked USDe",
+      "symbol": "SUSDE"
+    },
+    "bitget-token": {
+      "first_seen": "2025-08-28T12:11:55.874827",
+      "name": "Bitget Token",
+      "symbol": "BGB"
+    },
+    "monero": {
+      "first_seen": "2025-08-28T12:11:55.874829",
+      "name": "Monero",
+      "symbol": "XMR"
+    },
+    "aave": {
+      "first_seen": "2025-08-28T12:11:55.874832",
+      "name": "Aave",
+      "symbol": "AAVE"
+    },
+    "dai": {
+      "first_seen": "2025-08-28T12:11:55.874834",
+      "name": "Dai",
+      "symbol": "DAI"
+    },
+    "ethena": {
+      "first_seen": "2025-08-28T12:11:55.874836",
+      "name": "Ethena",
+      "symbol": "ENA"
+    },
+    "pepe": {
+      "first_seen": "2025-08-28T12:11:55.874839",
+      "name": "Pepe",
+      "symbol": "PEPE"
+    },
+    "mantle": {
+      "first_seen": "2025-08-28T12:11:55.874841",
+      "name": "Mantle",
+      "symbol": "MNT"
+    },
+    "okb": {
+      "first_seen": "2025-08-28T12:11:55.874844",
+      "name": "OKB",
+      "symbol": "OKB"
+    },
+    "ethereum-classic": {
+      "first_seen": "2025-08-28T12:11:55.874846",
+      "name": "Ethereum Classic",
+      "symbol": "ETC"
+    },
+    "bittensor": {
+      "first_seen": "2025-08-28T12:11:55.874848",
+      "name": "Bittensor",
+      "symbol": "TAO"
+    },
+    "jito-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.874850",
+      "name": "Jito Staked SOL",
+      "symbol": "JITOSOL"
+    },
+    "near": {
+      "first_seen": "2025-08-28T12:11:55.874853",
+      "name": "NEAR Protocol",
+      "symbol": "NEAR"
+    },
+    "aptos": {
+      "first_seen": "2025-08-28T12:11:55.874855",
+      "name": "Aptos",
+      "symbol": "APT"
+    },
+    "ondo-finance": {
+      "first_seen": "2025-08-28T12:11:55.874857",
+      "name": "Ondo",
+      "symbol": "ONDO"
+    },
+    "pi-network": {
+      "first_seen": "2025-08-28T12:11:55.874860",
+      "name": "Pi Network",
+      "symbol": "PI"
+    },
+    "binance-peg-weth": {
+      "first_seen": "2025-08-28T12:11:55.874862",
+      "name": "Binance-Peg WETH",
+      "symbol": "WETH"
+    },
+    "arbitrum": {
+      "first_seen": "2025-08-28T12:11:55.874864",
+      "name": "Arbitrum",
+      "symbol": "ARB"
+    },
+    "internet-computer": {
+      "first_seen": "2025-08-28T12:11:55.874867",
+      "name": "Internet Computer",
+      "symbol": "ICP"
+    },
+    "usdt0": {
+      "first_seen": "2025-08-28T12:11:55.874869",
+      "name": "USDT0",
+      "symbol": "USDT0"
+    },
+    "polygon-ecosystem-token": {
+      "first_seen": "2025-08-28T12:11:55.874871",
+      "name": "POL (ex-MATIC)",
+      "symbol": "POL"
+    },
+    "usd1-wlfi": {
+      "first_seen": "2025-08-28T12:11:55.874874",
+      "name": "USD1",
+      "symbol": "USD1"
+    },
+    "binance-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.874876",
+      "name": "Binance Staked SOL",
+      "symbol": "BNSOL"
+    },
+    "blackrock-usd-institutional-digital-liquidity-fund": {
+      "first_seen": "2025-08-28T12:11:55.874886",
+      "name": "BlackRock USD Institutional Digital Liquidity Fund",
+      "symbol": "BUIDL"
+    },
+    "kaspa": {
+      "first_seen": "2025-08-28T12:11:55.874888",
+      "name": "Kaspa",
+      "symbol": "KAS"
+    },
+    "algorand": {
+      "first_seen": "2025-08-28T12:11:55.874890",
+      "name": "Algorand",
+      "symbol": "ALGO"
+    },
+    "vechain": {
+      "first_seen": "2025-08-28T12:11:55.874893",
+      "name": "VeChain",
+      "symbol": "VET"
+    },
+    "cosmos": {
+      "first_seen": "2025-08-28T12:11:55.874895",
+      "name": "Cosmos Hub",
+      "symbol": "ATOM"
+    },
+    "rocket-pool-eth": {
+      "first_seen": "2025-08-28T12:11:55.874897",
+      "name": "Rocket Pool ETH",
+      "symbol": "RETH"
+    },
+    "gatechain-token": {
+      "first_seen": "2025-08-28T12:11:55.874902",
+      "name": "Gate",
+      "symbol": "GT"
+    },
+    "jupiter-perpetuals-liquidity-provider-token": {
+      "first_seen": "2025-08-28T12:11:55.874906",
+      "name": "Jupiter Perpetuals Liquidity Provider Token",
+      "symbol": "JLP"
+    },
+    "fasttoken": {
+      "first_seen": "2025-08-28T12:11:55.874908",
+      "name": "Fasttoken",
+      "symbol": "FTN"
+    },
+    "susds": {
+      "first_seen": "2025-08-28T12:11:55.874910",
+      "name": "sUSDS",
+      "symbol": "SUSDS"
+    },
+    "kelp-dao-restaked-eth": {
+      "first_seen": "2025-08-28T12:11:55.874912",
+      "name": "Kelp DAO Restaked ETH",
+      "symbol": "RSETH"
+    },
+    "pudgy-penguins": {
+      "first_seen": "2025-08-28T12:11:55.874915",
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU"
+    },
+    "render-token": {
+      "first_seen": "2025-08-28T12:11:55.874917",
+      "name": "Render",
+      "symbol": "RENDER"
+    },
+    "worldcoin-wld": {
+      "first_seen": "2025-08-28T12:11:55.874920",
+      "name": "Worldcoin",
+      "symbol": "WLD"
+    },
+    "story-2": {
+      "first_seen": "2025-08-28T12:11:55.874922",
+      "name": "Story",
+      "symbol": "IP"
+    },
+    "sei-network": {
+      "first_seen": "2025-08-28T12:11:55.874924",
+      "name": "Sei",
+      "symbol": "SEI"
+    },
+    "stakewise-v3-oseth": {
+      "first_seen": "2025-08-28T12:11:55.874927",
+      "name": "StakeWise Staked ETH",
+      "symbol": "OSETH"
+    },
+    "kucoin-shares": {
+      "first_seen": "2025-08-28T12:11:55.874929",
+      "name": "KuCoin",
+      "symbol": "KCS"
+    },
+    "kinetic-staked-hype": {
+      "first_seen": "2025-08-28T12:11:55.874931",
+      "name": "Kinetiq Staked HYPE",
+      "symbol": "KHYPE"
+    },
+    "official-trump": {
+      "first_seen": "2025-08-28T12:11:55.874934",
+      "name": "Official Trump",
+      "symbol": "TRUMP"
+    },
+    "bfusd": {
+      "first_seen": "2025-08-28T12:11:55.874936",
+      "name": "BFUSD",
+      "symbol": "BFUSD"
+    },
+    "fetch-ai": {
+      "first_seen": "2025-08-28T12:11:55.874938",
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET"
+    },
+    "bonk": {
+      "first_seen": "2025-08-28T12:11:55.874941",
+      "name": "Bonk",
+      "symbol": "BONK"
+    },
+    "liquid-staked-ethereum": {
+      "first_seen": "2025-08-28T12:11:55.874943",
+      "name": "Liquid Staked ETH",
+      "symbol": "LSETH"
+    },
+    "filecoin": {
+      "first_seen": "2025-08-28T12:11:55.874949",
+      "name": "Filecoin",
+      "symbol": "FIL"
+    },
+    "jupiter-exchange-solana": {
+      "first_seen": "2025-08-28T12:11:55.874952",
+      "name": "Jupiter",
+      "symbol": "JUP"
+    },
+    "flare-networks": {
+      "first_seen": "2025-08-28T12:11:55.874954",
+      "name": "Flare",
+      "symbol": "FLR"
+    },
+    "lombard-staked-btc": {
+      "first_seen": "2025-08-28T12:11:55.874956",
+      "name": "Lombard Staked BTC",
+      "symbol": "LBTC"
+    },
+    "quant-network": {
+      "first_seen": "2025-08-28T12:11:55.874960",
+      "name": "Quant",
+      "symbol": "QNT"
+    },
+    "black-phoenix": {
+      "first_seen": "2025-08-28T12:11:55.874962",
+      "name": "Black Phoenix",
+      "symbol": "BPX"
+    },
+    "sky": {
+      "first_seen": "2025-08-28T12:11:55.874965",
+      "name": "Sky",
+      "symbol": "SKY"
+    },
+    "usdtb": {
+      "first_seen": "2025-08-28T12:11:55.874967",
+      "name": "USDtb",
+      "symbol": "USDTB"
+    },
+    "renzo-restaked-eth": {
+      "first_seen": "2025-08-28T12:11:55.874969",
+      "name": "Renzo Restaked ETH",
+      "symbol": "EZETH"
+    },
+    "xdce-crowd-sale": {
+      "first_seen": "2025-08-28T12:11:55.874971",
+      "name": "XDC Network",
+      "symbol": "XDC"
+    },
+    "mantle-staked-ether": {
+      "first_seen": "2025-08-28T12:11:55.874973",
+      "name": "Mantle Staked Ether",
+      "symbol": "METH"
+    },
+    "four": {
+      "first_seen": "2025-08-28T12:11:55.874976",
+      "name": "Four",
+      "symbol": "FORM"
+    },
+    "polygon-bridged-usdt-polygon": {
+      "first_seen": "2025-08-28T12:11:55.874978",
+      "name": "Polygon Bridged USDT (Polygon)",
+      "symbol": "USDT"
+    },
+    "injective-protocol": {
+      "first_seen": "2025-08-28T12:11:55.874981",
+      "name": "Injective",
+      "symbol": "INJ"
+    },
+    "falcon-finance": {
+      "first_seen": "2025-08-28T12:11:55.874983",
+      "name": "Falcon USD",
+      "symbol": "USDF"
+    },
+    "celestia": {
+      "first_seen": "2025-08-28T12:11:55.874985",
+      "name": "Celestia",
+      "symbol": "TIA"
+    },
+    "nexo": {
+      "first_seen": "2025-08-28T12:11:55.874990",
+      "name": "NEXO",
+      "symbol": "NEXO"
+    },
+    "tether-gold": {
+      "first_seen": "2025-08-28T12:11:55.874993",
+      "name": "Tether Gold",
+      "symbol": "XAUT"
+    },
+    "jupiter-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.874995",
+      "name": "Jupiter Staked SOL",
+      "symbol": "JUPSOL"
+    },
+    "optimism": {
+      "first_seen": "2025-08-28T12:11:55.874998",
+      "name": "Optimism",
+      "symbol": "OP"
+    },
+    "hash-2": {
+      "first_seen": "2025-08-28T12:11:55.875000",
+      "name": "Provenance Blockchain",
+      "symbol": "HASH"
+    },
+    "wbnb": {
+      "first_seen": "2025-08-28T12:11:55.875002",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB"
+    },
+    "paypal-usd": {
+      "first_seen": "2025-08-28T12:11:55.875005",
+      "name": "PayPal USD",
+      "symbol": "PYUSD"
+    },
+    "spx6900": {
+      "first_seen": "2025-08-28T12:11:55.875007",
+      "name": "SPX6900",
+      "symbol": "SPX"
+    },
+    "blockstack": {
+      "first_seen": "2025-08-28T12:11:55.875009",
+      "name": "Stacks",
+      "symbol": "STX"
+    },
+    "first-digital-usd": {
+      "first_seen": "2025-08-28T12:11:55.875011",
+      "name": "First Digital USD",
+      "symbol": "FDUSD"
+    },
+    "solv-btc": {
+      "first_seen": "2025-08-28T12:11:55.875014",
+      "name": "Solv Protocol BTC",
+      "symbol": "SOLVBTC"
+    },
+    "aerodrome-finance": {
+      "first_seen": "2025-08-28T12:11:55.875016",
+      "name": "Aerodrome Finance",
+      "symbol": "AERO"
+    },
+    "lido-dao": {
+      "first_seen": "2025-08-28T12:11:55.875018",
+      "name": "Lido DAO",
+      "symbol": "LDO"
+    },
+    "pump-fun": {
+      "first_seen": "2025-08-28T12:11:55.875020",
+      "name": "Pump.fun",
+      "symbol": "PUMP"
+    },
+    "curve-dao-token": {
+      "first_seen": "2025-08-28T12:11:55.875023",
+      "name": "Curve DAO",
+      "symbol": "CRV"
+    },
+    "binance-bridged-usdc-bnb-smart-chain": {
+      "first_seen": "2025-08-28T12:11:55.875026",
+      "name": "Binance Bridged USDC (BNB Smart Chain)",
+      "symbol": "USDC"
+    },
+    "immutable-x": {
+      "first_seen": "2025-08-28T12:11:55.875028",
+      "name": "Immutable",
+      "symbol": "IMX"
+    },
+    "raydium": {
+      "first_seen": "2025-08-28T12:11:55.875030",
+      "name": "Raydium",
+      "symbol": "RAY"
+    },
+    "sonic-3": {
+      "first_seen": "2025-08-28T12:11:55.875032",
+      "name": "Sonic",
+      "symbol": "S"
+    },
+    "super-oeth": {
+      "first_seen": "2025-08-28T12:11:55.875035",
+      "name": "Super OETH",
+      "symbol": "SUPEROETH"
+    },
+    "msol": {
+      "first_seen": "2025-08-28T12:11:55.875037",
+      "name": "Marinade Staked SOL",
+      "symbol": "MSOL"
+    },
+    "syrupusdc": {
+      "first_seen": "2025-08-28T12:11:55.875040",
+      "name": "SyrupUSDC",
+      "symbol": "SYRUPUSDC"
+    },
+    "pax-gold": {
+      "first_seen": "2025-08-28T12:11:55.875042",
+      "name": "PAX Gold",
+      "symbol": "PAXG"
+    },
+    "the-graph": {
+      "first_seen": "2025-08-28T12:11:55.875044",
+      "name": "The Graph",
+      "symbol": "GRT"
+    },
+    "floki": {
+      "first_seen": "2025-08-28T12:11:55.875046",
+      "name": "FLOKI",
+      "symbol": "FLOKI"
+    },
+    "conflux-token": {
+      "first_seen": "2025-08-28T12:11:55.875048",
+      "name": "Conflux",
+      "symbol": "CFX"
+    },
+    "kaia": {
+      "first_seen": "2025-08-28T12:11:55.875051",
+      "name": "Kaia",
+      "symbol": "KAIA"
+    },
+    "arbitrum-bridged-wbtc-arbitrum-one": {
+      "first_seen": "2025-08-28T12:11:55.875053",
+      "name": "Arbitrum Bridged WBTC (Arbitrum One)",
+      "symbol": "WBTC"
+    },
+    "saros-finance": {
+      "first_seen": "2025-08-28T12:11:55.875055",
+      "name": "Saros",
+      "symbol": "SAROS"
+    },
+    "pancakeswap-token": {
+      "first_seen": "2025-08-28T12:11:55.875058",
+      "name": "PancakeSwap",
+      "symbol": "CAKE"
+    },
+    "cgeth-hashkey-cloud": {
+      "first_seen": "2025-08-28T12:11:55.875067",
+      "name": "cgETH Hashkey Cloud",
+      "symbol": "CGETH.HASHKEY"
+    },
+    "ether-fi-staked-eth": {
+      "first_seen": "2025-08-28T12:11:55.875069",
+      "name": "ether.fi Staked ETH",
+      "symbol": "EETH"
+    },
+    "clbtc": {
+      "first_seen": "2025-08-28T12:11:55.875071",
+      "name": "clBTC",
+      "symbol": "CLBTC"
+    },
+    "pendle": {
+      "first_seen": "2025-08-28T12:11:55.875074",
+      "name": "Pendle",
+      "symbol": "PENDLE"
+    },
+    "l2-standard-bridged-weth-base": {
+      "first_seen": "2025-08-28T12:11:55.875076",
+      "name": "L2 Standard Bridged WETH (Base)",
+      "symbol": "WETH"
+    },
+    "fartcoin": {
+      "first_seen": "2025-08-28T12:11:55.875078",
+      "name": "Fartcoin",
+      "symbol": "FARTCOIN"
+    },
+    "loaded-lions": {
+      "first_seen": "2025-08-28T12:11:55.875081",
+      "name": "Loaded Lions",
+      "symbol": "LION"
+    },
+    "tezos": {
+      "first_seen": "2025-08-28T12:11:55.875083",
+      "name": "Tezos",
+      "symbol": "XTZ"
+    },
+    "dogwifcoin": {
+      "first_seen": "2025-08-28T12:11:55.875085",
+      "name": "dogwifhat",
+      "symbol": "WIF"
+    },
+    "ethereum-name-service": {
+      "first_seen": "2025-08-28T12:11:55.875087",
+      "name": "Ethereum Name Service",
+      "symbol": "ENS"
+    },
+    "vaulta": {
+      "first_seen": "2025-08-28T12:11:55.875093",
+      "name": "Vaulta",
+      "symbol": "A"
+    },
+    "theta-token": {
+      "first_seen": "2025-08-28T12:11:55.875096",
+      "name": "Theta Network",
+      "symbol": "THETA"
+    },
+    "iota": {
+      "first_seen": "2025-08-28T12:11:55.875101",
+      "name": "IOTA",
+      "symbol": "IOTA"
+    },
+    "virtual-protocol": {
+      "first_seen": "2025-08-28T12:11:55.875103",
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL"
+    },
+    "jito-governance-token": {
+      "first_seen": "2025-08-28T12:11:55.875105",
+      "name": "Jito",
+      "symbol": "JTO"
+    },
+    "gala": {
+      "first_seen": "2025-08-28T12:11:55.875107",
+      "name": "GALA",
+      "symbol": "GALA"
+    },
+    "jasmycoin": {
+      "first_seen": "2025-08-28T12:11:55.875110",
+      "name": "JasmyCoin",
+      "symbol": "JASMY"
+    },
+    "morpho": {
+      "first_seen": "2025-08-28T12:11:55.875112",
+      "name": "Morpho",
+      "symbol": "MORPHO"
+    },
+    "ousg": {
+      "first_seen": "2025-08-28T12:11:55.875114",
+      "name": "OUSG",
+      "symbol": "OUSG"
+    },
+    "memecore": {
+      "first_seen": "2025-08-28T12:11:55.875116",
+      "name": "MemeCore",
+      "symbol": "M"
+    },
+    "stader-ethx": {
+      "first_seen": "2025-08-28T12:11:55.875118",
+      "name": "Stader ETHx",
+      "symbol": "ETHX"
+    },
+    "ripple-usd": {
+      "first_seen": "2025-08-28T12:11:55.875121",
+      "name": "Ripple USD",
+      "symbol": "RLUSD"
+    },
+    "the-sandbox": {
+      "first_seen": "2025-08-28T12:11:55.875123",
+      "name": "The Sandbox",
+      "symbol": "SAND"
+    },
+    "mantle-restaked-eth": {
+      "first_seen": "2025-08-28T12:11:55.875126",
+      "name": "Mantle Restaked ETH",
+      "symbol": "CMETH"
+    },
+    "newton-project": {
+      "first_seen": "2025-08-28T12:11:55.875128",
+      "name": "AB",
+      "symbol": "AB"
+    },
+    "zcash": {
+      "first_seen": "2025-08-28T12:11:55.875130",
+      "name": "Zcash",
+      "symbol": "ZEC"
+    },
+    "usdx-money-usdx": {
+      "first_seen": "2025-08-28T12:11:55.875133",
+      "name": "Stables Labs USDX",
+      "symbol": "USDX"
+    },
+    "pyth-network": {
+      "first_seen": "2025-08-28T12:11:55.875135",
+      "name": "Pyth Network",
+      "symbol": "PYTH"
+    },
+    "ondo-us-dollar-yield": {
+      "first_seen": "2025-08-28T12:11:55.875137",
+      "name": "Ondo US Dollar Yield",
+      "symbol": "USDY"
+    },
+    "tbtc": {
+      "first_seen": "2025-08-28T12:11:55.875139",
+      "name": "tBTC",
+      "symbol": "TBTC"
+    },
+    "arbitrum-bridged-weth-arbitrum-one": {
+      "first_seen": "2025-08-28T12:11:55.875142",
+      "name": "Arbitrum Bridged WETH (Arbitrum One)",
+      "symbol": "WETH"
+    },
+    "bittorrent": {
+      "first_seen": "2025-08-28T12:11:55.875144",
+      "name": "BitTorrent",
+      "symbol": "BTT"
+    },
+    "coinbase-wrapped-staked-eth": {
+      "first_seen": "2025-08-28T12:11:55.875146",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "CBETH"
+    },
+    "flow": {
+      "first_seen": "2025-08-28T12:11:55.875149",
+      "name": "Flow",
+      "symbol": "FLOW"
+    },
+    "sweth": {
+      "first_seen": "2025-08-28T12:11:55.875151",
+      "name": "Swell Ethereum",
+      "symbol": "SWETH"
+    },
+    "build-on": {
+      "first_seen": "2025-08-28T12:11:55.875154",
+      "name": "BUILDon",
+      "symbol": "B"
+    },
+    "binance-peg-dogecoin": {
+      "first_seen": "2025-08-28T12:11:55.875156",
+      "name": "Binance-Peg Dogecoin",
+      "symbol": "DOGE"
+    },
+    "usual-usd": {
+      "first_seen": "2025-08-28T12:11:55.875158",
+      "name": "Usual USD",
+      "symbol": "USD0"
+    },
+    "walrus-2": {
+      "first_seen": "2025-08-28T12:11:55.875161",
+      "name": "Walrus",
+      "symbol": "WAL"
+    },
+    "vision-3": {
+      "first_seen": "2025-08-28T12:11:55.875163",
+      "name": "Vision",
+      "symbol": "VSN"
+    },
+    "bitcoin-avalanche-bridged-btc-b": {
+      "first_seen": "2025-08-28T12:11:55.875166",
+      "name": "Avalanche Bridged BTC (Avalanche)",
+      "symbol": "BTC.B"
+    },
+    "decentraland": {
+      "first_seen": "2025-08-28T12:11:55.875168",
+      "name": "Decentraland",
+      "symbol": "MANA"
+    },
+    "beldex": {
+      "first_seen": "2025-08-28T12:11:55.875170",
+      "name": "Beldex",
+      "symbol": "BDX"
+    },
+    "global-dollar": {
+      "first_seen": "2025-08-28T12:11:55.875174",
+      "name": "Global Dollar",
+      "symbol": "USDG"
+    },
+    "bitcoin-cash-sv": {
+      "first_seen": "2025-08-28T12:11:55.875177",
+      "name": "Bitcoin SV",
+      "symbol": "BSV"
+    },
+    "frax-ether": {
+      "first_seen": "2025-08-28T12:11:55.875180",
+      "name": "Frax Ether",
+      "symbol": "FRXETH"
+    },
+    "ether-fi": {
+      "first_seen": "2025-08-28T12:11:55.875183",
+      "name": "Ether.fi",
+      "symbol": "ETHFI"
+    },
+    "starknet": {
+      "first_seen": "2025-08-28T12:11:55.875185",
+      "name": "Starknet",
+      "symbol": "STRK"
+    },
+    "syrup": {
+      "first_seen": "2025-08-28T12:11:55.875188",
+      "name": "Maple Finance",
+      "symbol": "SYRUP"
+    },
+    "based-brett": {
+      "first_seen": "2025-08-28T12:11:55.875191",
+      "name": "Brett",
+      "symbol": "BRETT"
+    },
+    "neo": {
+      "first_seen": "2025-08-28T12:11:55.875196",
+      "name": "NEO",
+      "symbol": "NEO"
+    },
+    "polygon-pos-bridged-weth-polygon-pos": {
+      "first_seen": "2025-08-28T12:11:55.875199",
+      "name": "Polygon PoS Bridged WETH (Polygon POS)",
+      "symbol": "WETH"
+    },
+    "true-usd": {
+      "first_seen": "2025-08-28T12:11:55.875202",
+      "name": "TrueUSD",
+      "symbol": "TUSD"
+    },
+    "helium": {
+      "first_seen": "2025-08-28T12:11:55.875204",
+      "name": "Helium",
+      "symbol": "HNT"
+    },
+    "dydx-chain": {
+      "first_seen": "2025-08-28T12:11:55.875207",
+      "name": "dYdX",
+      "symbol": "DYDX"
+    },
+    "solv-protocol-solvbtc-bbn": {
+      "first_seen": "2025-08-28T12:11:55.875209",
+      "name": "Solv Protocol Staked BTC",
+      "symbol": "XSOLVBTC"
+    },
+    "telcoin": {
+      "first_seen": "2025-08-28T12:11:55.875212",
+      "name": "Telcoin",
+      "symbol": "TEL"
+    },
+    "apecoin": {
+      "first_seen": "2025-08-28T12:11:55.875214",
+      "name": "ApeCoin",
+      "symbol": "APE"
+    },
+    "bybit-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.875216",
+      "name": "Bybit Staked SOL",
+      "symbol": "BBSOL"
+    },
+    "reserve-rights-token": {
+      "first_seen": "2025-08-28T12:11:55.875218",
+      "name": "Reserve Rights",
+      "symbol": "RSR"
+    },
+    "sun-token": {
+      "first_seen": "2025-08-28T12:11:55.875220",
+      "name": "Sun Token",
+      "symbol": "SUN"
+    },
+    "usdd": {
+      "first_seen": "2025-08-28T12:11:55.875223",
+      "name": "USDD",
+      "symbol": "USDD"
+    },
+    "apenft": {
+      "first_seen": "2025-08-28T12:11:55.875225",
+      "name": "APENFT",
+      "symbol": "NFT"
+    },
+    "zksync": {
+      "first_seen": "2025-08-28T12:11:55.875228",
+      "name": "ZKsync",
+      "symbol": "ZK"
+    },
+    "thorchain": {
+      "first_seen": "2025-08-28T12:11:55.875233",
+      "name": "THORChain",
+      "symbol": "RUNE"
+    },
+    "mantle-bridged-usdt-mantle": {
+      "first_seen": "2025-08-28T12:11:55.875235",
+      "name": "Mantle Bridged USDT (Mantle)",
+      "symbol": "USDT"
+    },
+    "coredaoorg": {
+      "first_seen": "2025-08-28T12:11:55.875237",
+      "name": "Core",
+      "symbol": "CORE"
+    },
+    "arweave": {
+      "first_seen": "2025-08-28T12:11:55.875240",
+      "name": "Arweave",
+      "symbol": "AR"
+    },
+    "savings-dai": {
+      "first_seen": "2025-08-28T12:11:55.875242",
+      "name": "Savings Dai",
+      "symbol": "SDAI"
+    },
+    "polygon-pos-bridged-dai-polygon-pos": {
+      "first_seen": "2025-08-28T12:11:55.875244",
+      "name": "Polygon PoS Bridged DAI (Polygon POS)",
+      "symbol": "DAI"
+    },
+    "treehouse-eth": {
+      "first_seen": "2025-08-28T12:11:55.875246",
+      "name": "Treehouse ETH",
+      "symbol": "TETH"
+    },
+    "elrond-erd-2": {
+      "first_seen": "2025-08-28T12:11:55.875248",
+      "name": "MultiversX",
+      "symbol": "EGLD"
+    },
+    "benqi-liquid-staked-avax": {
+      "first_seen": "2025-08-28T12:11:55.875251",
+      "name": "BENQI Liquid Staked AVAX",
+      "symbol": "SAVAX"
+    },
+    "instadapp": {
+      "first_seen": "2025-08-28T12:11:55.875253",
+      "name": "Fluid",
+      "symbol": "FLUID"
+    },
+    "bridged-usdc-polygon-pos-bridge": {
+      "first_seen": "2025-08-28T12:11:55.875255",
+      "name": "Bridged USDC (Polygon PoS Bridge)",
+      "symbol": "USDC.E"
+    },
+    "dexe": {
+      "first_seen": "2025-08-28T12:11:55.875258",
+      "name": "DeXe",
+      "symbol": "DEXE"
+    },
+    "compound-governance-token": {
+      "first_seen": "2025-08-28T12:11:55.875260",
+      "name": "Compound",
+      "symbol": "COMP"
+    },
+    "agentfun-ai": {
+      "first_seen": "2025-08-28T12:11:55.875262",
+      "name": "AgentFun.AI",
+      "symbol": "AGENTFUN"
+    },
+    "eigenlayer": {
+      "first_seen": "2025-08-28T12:11:55.875264",
+      "name": "EigenCloud (prev. EigenLayer)",
+      "symbol": "EIGEN"
+    },
+    "hashnote-usyc": {
+      "first_seen": "2025-08-28T12:11:55.875266",
+      "name": "Circle USYC",
+      "symbol": "USYC"
+    },
+    "tokenize-xchange": {
+      "first_seen": "2025-08-28T12:11:55.875268",
+      "name": "Tokenize Xchange",
+      "symbol": "TKX"
+    },
+    "ecash": {
+      "first_seen": "2025-08-28T12:11:55.875274",
+      "name": "eCash",
+      "symbol": "XEC"
+    },
+    "aioz-network": {
+      "first_seen": "2025-08-28T12:11:55.875277",
+      "name": "AIOZ Network",
+      "symbol": "AIOZ"
+    },
+    "chain-2": {
+      "first_seen": "2025-08-28T12:11:55.875279",
+      "name": "Onyxcoin",
+      "symbol": "XCN"
+    },
+    "usdb": {
+      "first_seen": "2025-08-28T12:11:55.875281",
+      "name": "USDB",
+      "symbol": "USDB"
+    },
+    "kava": {
+      "first_seen": "2025-08-28T12:11:55.875283",
+      "name": "Kava",
+      "symbol": "KAVA"
+    },
+    "chiliz": {
+      "first_seen": "2025-08-28T12:11:55.875286",
+      "name": "Chiliz",
+      "symbol": "CHZ"
+    },
+    "axie-infinity": {
+      "first_seen": "2025-08-28T12:11:55.875288",
+      "name": "Axie Infinity",
+      "symbol": "AXS"
+    },
+    "wrapped-avax": {
+      "first_seen": "2025-08-28T12:11:55.875291",
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX"
+    },
+    "superstate-short-duration-us-government-securities-fund-ustb": {
+      "first_seen": "2025-08-28T12:11:55.875293",
+      "name": "Superstate Short Duration U.S. Government Securities Fund (USTB)",
+      "symbol": "USTB"
+    },
+    "bio-protocol": {
+      "first_seen": "2025-08-28T12:11:55.875298",
+      "name": "Bio Protocol",
+      "symbol": "BIO"
+    },
+    "beam-2": {
+      "first_seen": "2025-08-28T12:11:55.875301",
+      "name": "Beam",
+      "symbol": "BEAM"
+    },
+    "mog-coin": {
+      "first_seen": "2025-08-28T12:11:55.875303",
+      "name": "Mog Coin",
+      "symbol": "MOG"
+    },
+    "zebec-network": {
+      "first_seen": "2025-08-28T12:11:55.875305",
+      "name": "Zebec Network",
+      "symbol": "ZBCN"
+    },
+    "superfarm": {
+      "first_seen": "2025-08-28T12:11:55.875307",
+      "name": "SuperVerse",
+      "symbol": "SUPER"
+    },
+    "aethir": {
+      "first_seen": "2025-08-28T12:11:55.875309",
+      "name": "Aethir",
+      "symbol": "ATH"
+    },
+    "wrapped-hype": {
+      "first_seen": "2025-08-28T12:11:55.875312",
+      "name": "Wrapped HYPE",
+      "symbol": "WHYPE"
+    },
+    "olympus": {
+      "first_seen": "2025-08-28T12:11:55.875314",
+      "name": "Olympus",
+      "symbol": "OHM"
+    },
+    "unit-bitcoin": {
+      "first_seen": "2025-08-28T12:11:55.875316",
+      "name": "Unit Bitcoin",
+      "symbol": "UBTC"
+    },
+    "just": {
+      "first_seen": "2025-08-28T12:11:55.875318",
+      "name": "JUST",
+      "symbol": "JST"
+    },
+    "wrapped-ether-mantle-bridge": {
+      "first_seen": "2025-08-28T12:11:55.875321",
+      "name": "Wrapped Ether (Mantle Bridge)",
+      "symbol": "WETH"
+    },
+    "livepeer": {
+      "first_seen": "2025-08-28T12:11:55.875323",
+      "name": "Livepeer",
+      "symbol": "LPT"
+    },
+    "drift-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.875326",
+      "name": "Drift Staked SOL",
+      "symbol": "DSOL"
+    },
+    "ronin": {
+      "first_seen": "2025-08-28T12:11:55.875328",
+      "name": "Ronin",
+      "symbol": "RON"
+    },
+    "keeta": {
+      "first_seen": "2025-08-28T12:11:55.875331",
+      "name": "Keeta",
+      "symbol": "KTA"
+    },
+    "reserve-protocol-eth-plus": {
+      "first_seen": "2025-08-28T12:11:55.875333",
+      "name": "ETHPlus",
+      "symbol": "ETH+"
+    },
+    "deep": {
+      "first_seen": "2025-08-28T12:11:55.875336",
+      "name": "DeepBook",
+      "symbol": "DEEP"
+    },
+    "staked-frax-ether": {
+      "first_seen": "2025-08-28T12:11:55.875338",
+      "name": "Staked Frax Ether",
+      "symbol": "SFRXETH"
+    },
+    "steakhouse-usdc-morpho-vault": {
+      "first_seen": "2025-08-28T12:11:55.875340",
+      "name": "Steakhouse USDC Morpho Vault",
+      "symbol": "STEAKUSDC"
+    },
+    "vvs-finance": {
+      "first_seen": "2025-08-28T12:11:55.875343",
+      "name": "VVS Finance",
+      "symbol": "VVS"
+    },
+    "wormhole": {
+      "first_seen": "2025-08-28T12:11:55.875345",
+      "name": "Wormhole",
+      "symbol": "W"
+    },
+    "gnosis": {
+      "first_seen": "2025-08-28T12:11:55.875347",
+      "name": "Gnosis",
+      "symbol": "GNO"
+    },
+    "gho": {
+      "first_seen": "2025-08-28T12:11:55.875349",
+      "name": "GHO",
+      "symbol": "GHO"
+    },
+    "1inch": {
+      "first_seen": "2025-08-28T12:11:55.875352",
+      "name": "1inch",
+      "symbol": "1INCH"
+    },
+    "berachain-bera": {
+      "first_seen": "2025-08-28T12:11:55.875354",
+      "name": "Berachain",
+      "symbol": "BERA"
+    },
+    "eos": {
+      "first_seen": "2025-08-28T12:11:55.875356",
+      "name": "EOS",
+      "symbol": "EOS"
+    },
+    "venom": {
+      "first_seen": "2025-08-28T12:11:55.875359",
+      "name": "Venom",
+      "symbol": "VENOM"
+    },
+    "eutbl": {
+      "first_seen": "2025-08-28T12:11:55.875361",
+      "name": "Spiko EU T-Bills Money Market Fund",
+      "symbol": "EUTBL"
+    },
+    "movement": {
+      "first_seen": "2025-08-28T12:11:55.875363",
+      "name": "Movement",
+      "symbol": "MOVE"
+    },
+    "ether-fi-staked-btc": {
+      "first_seen": "2025-08-28T12:11:55.875365",
+      "name": "Ether.fi Staked BTC",
+      "symbol": "EBTC"
+    },
+    "terra-luna": {
+      "first_seen": "2025-08-28T12:11:55.875368",
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC"
+    },
+    "akash-network": {
+      "first_seen": "2025-08-28T12:11:55.875370",
+      "name": "Akash Network",
+      "symbol": "AKT"
+    },
+    "rekt-4": {
+      "first_seen": "2025-08-28T12:11:55.875373",
+      "name": "Rekt",
+      "symbol": "REKT"
+    },
+    "wemix-token": {
+      "first_seen": "2025-08-28T12:11:55.875376",
+      "name": "WEMIX",
+      "symbol": "WEMIX"
+    },
+    "snek": {
+      "first_seen": "2025-08-28T12:11:55.875379",
+      "name": "Snek",
+      "symbol": "SNEK"
+    },
+    "axelar": {
+      "first_seen": "2025-08-28T12:11:55.875382",
+      "name": "Axelar",
+      "symbol": "AXL"
+    },
+    "resolv-usr": {
+      "first_seen": "2025-08-28T12:11:55.875385",
+      "name": "Resolv USR",
+      "symbol": "USR"
+    },
+    "trust-wallet-token": {
+      "first_seen": "2025-08-28T12:11:55.875387",
+      "name": "Trust Wallet",
+      "symbol": "TWT"
+    },
+    "ultima": {
+      "first_seen": "2025-08-28T12:11:55.875391",
+      "name": "Ultima",
+      "symbol": "ULTIMA"
+    },
+    "binance-peg-busd": {
+      "first_seen": "2025-08-28T12:11:55.875394",
+      "name": "Binance-Peg BUSD",
+      "symbol": "BUSD"
+    },
+    "polygon-bridged-wbtc-polygon-pos": {
+      "first_seen": "2025-08-28T12:11:55.875399",
+      "name": "Polygon Bridged WBTC (Polygon POS)",
+      "symbol": "WBTC"
+    },
+    "creditcoin-2": {
+      "first_seen": "2025-08-28T12:11:55.875401",
+      "name": "Creditcoin",
+      "symbol": "CTC"
+    },
+    "qtum": {
+      "first_seen": "2025-08-28T12:11:55.875403",
+      "name": "Qtum",
+      "symbol": "QTUM"
+    },
+    "amp-token": {
+      "first_seen": "2025-08-28T12:11:55.875406",
+      "name": "Amp",
+      "symbol": "AMP"
+    },
+    "frax": {
+      "first_seen": "2025-08-28T12:11:55.875408",
+      "name": "Legacy Frax Dollar",
+      "symbol": "FRAX"
+    },
+    "qubic-network": {
+      "first_seen": "2025-08-28T12:11:55.875410",
+      "name": "Qubic",
+      "symbol": "QUBIC"
+    },
+    "zora": {
+      "first_seen": "2025-08-28T12:11:55.875412",
+      "name": "Zora",
+      "symbol": "ZORA"
+    },
+    "tribe-2": {
+      "first_seen": "2025-08-28T12:11:55.875414",
+      "name": "Tribe",
+      "symbol": "TRIBE"
+    },
+    "openeden-open-dollar": {
+      "first_seen": "2025-08-28T12:11:55.875417",
+      "name": "OpenEden OpenDollar",
+      "symbol": "USDO"
+    },
+    "convex-finance": {
+      "first_seen": "2025-08-28T12:11:55.875419",
+      "name": "Convex Finance",
+      "symbol": "CVX"
+    },
+    "dash": {
+      "first_seen": "2025-08-28T12:11:55.875421",
+      "name": "Dash",
+      "symbol": "DASH"
+    },
+    "decred": {
+      "first_seen": "2025-08-28T12:11:55.875423",
+      "name": "Decred",
+      "symbol": "DCR"
+    },
+    "turbo": {
+      "first_seen": "2025-08-28T12:11:55.875426",
+      "name": "Turbo",
+      "symbol": "TURBO"
+    },
+    "safe": {
+      "first_seen": "2025-08-28T12:11:55.875428",
+      "name": "Safe",
+      "symbol": "SAFE"
+    },
+    "compounding-open-dollar": {
+      "first_seen": "2025-08-28T12:11:55.875430",
+      "name": "Compounding OpenDollar",
+      "symbol": "CUSDO"
+    },
+    "evervalue-coin": {
+      "first_seen": "2025-08-28T12:11:55.875433",
+      "name": "EverValue Coin",
+      "symbol": "EVA"
+    },
+    "iotex": {
+      "first_seen": "2025-08-28T12:11:55.875435",
+      "name": "IoTeX",
+      "symbol": "IOTX"
+    },
+    "toshi": {
+      "first_seen": "2025-08-28T12:11:55.875437",
+      "name": "Toshi",
+      "symbol": "TOSHI"
+    },
+    "btse-token": {
+      "first_seen": "2025-08-28T12:11:55.875439",
+      "name": "BTSE Token",
+      "symbol": "BTSE"
+    },
+    "dog-go-to-the-moon-rune": {
+      "first_seen": "2025-08-28T12:11:55.875441",
+      "name": "Dog (Bitcoin)",
+      "symbol": "DOG"
+    },
+    "cat-in-a-dogs-world": {
+      "first_seen": "2025-08-28T12:11:55.875444",
+      "name": "cat in a dogs world",
+      "symbol": "MEW"
+    },
+    "kusama": {
+      "first_seen": "2025-08-28T12:11:55.875446",
+      "name": "Kusama",
+      "symbol": "KSM"
+    },
+    "popcat": {
+      "first_seen": "2025-08-28T12:11:55.875448",
+      "name": "Popcat",
+      "symbol": "POPCAT"
+    },
+    "mx-token": {
+      "first_seen": "2025-08-28T12:11:55.875450",
+      "name": "MX",
+      "symbol": "MX"
+    },
+    "kaito": {
+      "first_seen": "2025-08-28T12:11:55.875453",
+      "name": "KAITO",
+      "symbol": "KAITO"
+    },
+    "velo": {
+      "first_seen": "2025-08-28T12:11:55.875455",
+      "name": "Velo",
+      "symbol": "VELO"
+    },
+    "swissborg": {
+      "first_seen": "2025-08-28T12:11:55.875457",
+      "name": "SwissBorg",
+      "symbol": "BORG"
+    },
+    "usdx-money-staked-usdx": {
+      "first_seen": "2025-08-28T12:11:55.875460",
+      "name": "Stables Labs Staked USDX",
+      "symbol": "SUSDX"
+    },
+    "compound-wrapped-btc": {
+      "first_seen": "2025-08-28T12:11:55.875462",
+      "name": "cWBTC",
+      "symbol": "CWBTC"
+    },
+    "resolv-rlp": {
+      "first_seen": "2025-08-28T12:11:55.875465",
+      "name": "Resolv RLP",
+      "symbol": "RLP"
+    },
+    "mocaverse": {
+      "first_seen": "2025-08-28T12:11:55.875467",
+      "name": "Moca Network",
+      "symbol": "MOCA"
+    },
+    "plume": {
+      "first_seen": "2025-08-28T12:11:55.875469",
+      "name": "Plume",
+      "symbol": "PLUME"
+    },
+    "origin-ether": {
+      "first_seen": "2025-08-28T12:11:55.875489",
+      "name": "Origin Ether",
+      "symbol": "OETH"
+    },
+    "havven": {
+      "first_seen": "2025-08-28T12:11:55.875491",
+      "name": "Synthetix Network",
+      "symbol": "SNX"
+    },
+    "astherus-staked-bnb": {
+      "first_seen": "2025-08-28T12:11:55.875494",
+      "name": "Aster Staked BNB",
+      "symbol": "ASBNB"
+    },
+    "ye16z": {
+      "first_seen": "2025-08-28T12:11:55.875496",
+      "name": "YE16Z",
+      "symbol": "YE16Z"
+    },
+    "cheems-token": {
+      "first_seen": "2025-08-28T12:11:55.875498",
+      "name": "Cheems Token",
+      "symbol": "CHEEMS"
+    },
+    "theta-fuel": {
+      "first_seen": "2025-08-28T12:11:55.875500",
+      "name": "Theta Fuel",
+      "symbol": "TFUEL"
+    },
+    "mantra-dao": {
+      "first_seen": "2025-08-28T12:11:55.875503",
+      "name": "MANTRA",
+      "symbol": "OM"
+    },
+    "arkham": {
+      "first_seen": "2025-08-28T12:11:55.875505",
+      "name": "Arkham",
+      "symbol": "ARKM"
+    },
+    "golem": {
+      "first_seen": "2025-08-28T12:11:55.875510",
+      "name": "Golem",
+      "symbol": "GLM"
+    },
+    "blockchain-capital": {
+      "first_seen": "2025-08-28T12:11:55.875513",
+      "name": "Blockchain Capital",
+      "symbol": "BCAP"
+    },
+    "safepal": {
+      "first_seen": "2025-08-28T12:11:55.875515",
+      "name": "SafePal",
+      "symbol": "SFP"
+    },
+    "drift-protocol": {
+      "first_seen": "2025-08-28T12:11:55.875517",
+      "name": "Drift Protocol",
+      "symbol": "DRIFT"
+    },
+    "euro-coin": {
+      "first_seen": "2025-08-28T12:11:55.875519",
+      "name": "EURC",
+      "symbol": "EURC"
+    },
+    "universal-btc": {
+      "first_seen": "2025-08-28T12:11:55.875521",
+      "name": "Universal BTC",
+      "symbol": "UNIBTC"
+    },
+    "nxm": {
+      "first_seen": "2025-08-28T12:11:55.875524",
+      "name": "Nexus Mutual",
+      "symbol": "NXM"
+    },
+    "resolv-wstusr": {
+      "first_seen": "2025-08-28T12:11:55.875526",
+      "name": "Resolv wstUSR",
+      "symbol": "WSTUSR"
+    },
+    "nervos-network": {
+      "first_seen": "2025-08-28T12:11:55.875528",
+      "name": "Nervos Network",
+      "symbol": "CKB"
+    },
+    "binance-peg-sol": {
+      "first_seen": "2025-08-28T12:11:55.875530",
+      "name": "Binance-Peg SOL",
+      "symbol": "SOL"
+    },
+    "frax-share": {
+      "first_seen": "2025-08-28T12:11:55.875533",
+      "name": "Frax (prev. FXS)",
+      "symbol": "FRAX"
+    },
+    "grass": {
+      "first_seen": "2025-08-28T12:11:55.875535",
+      "name": "Grass",
+      "symbol": "GRASS"
+    },
+    "basic-attention-token": {
+      "first_seen": "2025-08-28T12:11:55.875537",
+      "name": "Basic Attention",
+      "symbol": "BAT"
+    },
+    "succinct": {
+      "first_seen": "2025-08-28T12:11:55.875540",
+      "name": "Succinct",
+      "symbol": "PROVE"
+    },
+    "zano": {
+      "first_seen": "2025-08-28T12:11:55.875542",
+      "name": "Zano",
+      "symbol": "ZANO"
+    },
+    "zilliqa": {
+      "first_seen": "2025-08-28T12:11:55.875544",
+      "name": "Zilliqa",
+      "symbol": "ZIL"
+    },
+    "restaking-vault-eth": {
+      "first_seen": "2025-08-28T12:11:55.875546",
+      "name": "Restaking Vault ETH",
+      "symbol": "RSTETH"
+    },
+    "mina-protocol": {
+      "first_seen": "2025-08-28T12:11:55.875549",
+      "name": "Mina Protocol",
+      "symbol": "MINA"
+    },
+    "infrared-bera": {
+      "first_seen": "2025-08-28T12:11:55.875551",
+      "name": "Infrared Bera",
+      "symbol": "IBERA"
+    },
+    "gas": {
+      "first_seen": "2025-08-28T12:11:55.875553",
+      "name": "Gas",
+      "symbol": "GAS"
+    },
+    "layerzero": {
+      "first_seen": "2025-08-28T12:11:55.875555",
+      "name": "LayerZero",
+      "symbol": "ZRO"
+    },
+    "peanut-the-squirrel": {
+      "first_seen": "2025-08-28T12:11:55.875560",
+      "name": "Peanut the Squirrel",
+      "symbol": "PNUT"
+    },
+    "0x": {
+      "first_seen": "2025-08-28T12:11:55.875563",
+      "name": "0x Protocol",
+      "symbol": "ZRX"
+    },
+    "ravencoin": {
+      "first_seen": "2025-08-28T12:11:55.875565",
+      "name": "Ravencoin",
+      "symbol": "RVN"
+    },
+    "usda-2": {
+      "first_seen": "2025-08-28T12:11:55.875567",
+      "name": "USDa",
+      "symbol": "USDA"
+    },
+    "satoshi-stablecoin": {
+      "first_seen": "2025-08-28T12:11:55.875569",
+      "name": "Satoshi Stablecoin",
+      "symbol": "SATUSD"
+    },
+    "gmt-token": {
+      "first_seen": "2025-08-28T12:11:55.875572",
+      "name": "GoMining Token",
+      "symbol": "GOMINING"
+    },
+    "mitosis-matrix-usdt-lista": {
+      "first_seen": "2025-08-28T12:11:55.875574",
+      "name": "Mitosis Matrix USDT (Lista)",
+      "symbol": "MAUSDT_LISTA"
+    },
+    "baby-doge-coin": {
+      "first_seen": "2025-08-28T12:11:55.875576",
+      "name": "Baby Doge Coin",
+      "symbol": "BABYDOGE"
+    },
+    "useless-3": {
+      "first_seen": "2025-08-28T12:11:55.875578",
+      "name": "Useless Coin",
+      "symbol": "USELESS"
+    },
+    "slash-vision-labs": {
+      "first_seen": "2025-08-28T12:11:55.875581",
+      "name": "Slash Vision Labs",
+      "symbol": "SVL"
+    },
+    "agora-dollar": {
+      "first_seen": "2025-08-28T12:11:55.875583",
+      "name": "AUSD",
+      "symbol": "AUSD"
+    },
+    "camp-network": {
+      "first_seen": "2025-08-28T12:11:55.875585",
+      "name": "Camp Network",
+      "symbol": "CAMP"
+    },
+    "compound-ether": {
+      "first_seen": "2025-08-28T12:11:55.875588",
+      "name": "cETH",
+      "symbol": "CETH"
+    },
+    "bridged-wrapped-steth-gnosis": {
+      "first_seen": "2025-08-28T12:11:55.875590",
+      "name": "Bridged Wrapped stETH (Gnosis)",
+      "symbol": "WSTETH"
+    },
+    "centrifuge-2": {
+      "first_seen": "2025-08-28T12:11:55.875592",
+      "name": "Centrifuge",
+      "symbol": "CFG"
+    },
+    "wrapped-aave-ethereum-weth": {
+      "first_seen": "2025-08-28T12:11:55.875594",
+      "name": "Wrapped Aave Ethereum WETH",
+      "symbol": "WAETHWETH"
+    },
+    "astar": {
+      "first_seen": "2025-08-28T12:11:55.875597",
+      "name": "Astar",
+      "symbol": "ASTR"
+    },
+    "origintrail": {
+      "first_seen": "2025-08-28T12:11:55.875602",
+      "name": "OriginTrail",
+      "symbol": "TRAC"
+    },
+    "sahara-ai": {
+      "first_seen": "2025-08-28T12:11:55.875604",
+      "name": "Sahara AI",
+      "symbol": "SAHARA"
+    },
+    "diamond-launch": {
+      "first_seen": "2025-08-28T12:11:55.875609",
+      "name": "Diverge Loop",
+      "symbol": "DLC"
+    },
+    "oasis-network": {
+      "first_seen": "2025-08-28T12:11:55.875611",
+      "name": "Oasis",
+      "symbol": "ROSE"
+    },
+    "legacy-token": {
+      "first_seen": "2025-08-28T12:11:55.875614",
+      "name": "Legacy Token",
+      "symbol": "LGCT"
+    },
+    "non-playable-coin": {
+      "first_seen": "2025-08-28T12:11:55.875616",
+      "name": "Non-Playable Coin",
+      "symbol": "NPC"
+    },
+    "blur": {
+      "first_seen": "2025-08-28T12:11:55.875621",
+      "name": "Blur",
+      "symbol": "BLUR"
+    },
+    "tradable-na-rent-financing-platform-sstn": {
+      "first_seen": "2025-08-28T12:11:55.875623",
+      "name": "Tradable NA Rent Financing Platform SSTN",
+      "symbol": "PC0000031"
+    },
+    "celo": {
+      "first_seen": "2025-08-28T12:11:55.875628",
+      "name": "Celo",
+      "symbol": "CELO"
+    },
+    "euler": {
+      "first_seen": "2025-08-28T12:11:55.875631",
+      "name": "Euler",
+      "symbol": "EUL"
+    },
+    "zetachain": {
+      "first_seen": "2025-08-28T12:11:55.875633",
+      "name": "ZetaChain",
+      "symbol": "ZETA"
+    },
+    "yearn-finance": {
+      "first_seen": "2025-08-28T12:11:55.875635",
+      "name": "yearn.finance",
+      "symbol": "YFI"
+    },
+    "dora-2": {
+      "first_seen": "2025-08-28T12:11:55.875638",
+      "name": "DORA",
+      "symbol": "DORA"
+    },
+    "notcoin": {
+      "first_seen": "2025-08-28T12:11:55.875640",
+      "name": "Notcoin",
+      "symbol": "NOT"
+    },
+    "ordinals": {
+      "first_seen": "2025-08-28T12:11:55.875642",
+      "name": "ORDI",
+      "symbol": "ORDI"
+    },
+    "ethereum-pow-iou": {
+      "first_seen": "2025-08-28T12:11:55.875644",
+      "name": "EthereumPoW",
+      "symbol": "ETHW"
+    },
+    "troll-2": {
+      "first_seen": "2025-08-28T12:11:55.875647",
+      "name": "TROLL",
+      "symbol": "TROLL"
+    },
+    "cow-protocol": {
+      "first_seen": "2025-08-28T12:11:55.875649",
+      "name": "CoW Protocol",
+      "symbol": "COW"
+    },
+    "oec-token": {
+      "first_seen": "2025-08-28T12:11:55.875651",
+      "name": "OKT Chain",
+      "symbol": "OKT"
+    },
+    "metal-blockchain": {
+      "first_seen": "2025-08-28T12:11:55.875653",
+      "name": "Metal Blockchain",
+      "symbol": "METAL"
+    },
+    "mitosis-eol-bnb": {
+      "first_seen": "2025-08-28T12:11:55.875656",
+      "name": "Mitosis EOL BNB",
+      "symbol": "MIBNB"
+    },
+    "vethor-token": {
+      "first_seen": "2025-08-28T12:11:55.875658",
+      "name": "VeThor",
+      "symbol": "VTHO"
+    },
+    "siacoin": {
+      "first_seen": "2025-08-28T12:11:55.875660",
+      "name": "Siacoin",
+      "symbol": "SC"
+    },
+    "numeraire": {
+      "first_seen": "2025-08-28T12:11:55.875663",
+      "name": "Numeraire",
+      "symbol": "NMR"
+    },
+    "holotoken": {
+      "first_seen": "2025-08-28T12:11:55.875665",
+      "name": "Holo",
+      "symbol": "HOT"
+    },
+    "mag7-ssi": {
+      "first_seen": "2025-08-28T12:11:55.875667",
+      "name": "MAG7.ssi",
+      "symbol": "MAG7.SSI"
+    },
+    "mimbogamegroup": {
+      "first_seen": "2025-08-28T12:11:55.875670",
+      "name": "MimboGameGroup",
+      "symbol": "MGG"
+    },
+    "prometeus": {
+      "first_seen": "2025-08-28T12:11:55.875672",
+      "name": "Prom",
+      "symbol": "PROM"
+    },
+    "reallink": {
+      "first_seen": "2025-08-28T12:11:55.875674",
+      "name": "RealLink",
+      "symbol": "REAL"
+    },
+    "proton": {
+      "first_seen": "2025-08-28T12:11:55.875676",
+      "name": "XPR Network",
+      "symbol": "XPR"
+    },
+    "cronos-bridged-usdc-cronos": {
+      "first_seen": "2025-08-28T12:11:55.875678",
+      "name": "Cronos Bridged USDC (Cronos)",
+      "symbol": "USDC"
+    },
+    "threshold-network-token": {
+      "first_seen": "2025-08-28T12:11:55.875681",
+      "name": "Threshold Network",
+      "symbol": "T"
+    },
+    "memecoin-2": {
+      "first_seen": "2025-08-28T12:11:55.875683",
+      "name": "Memecoin",
+      "symbol": "MEME"
+    },
+    "staked-hype": {
+      "first_seen": "2025-08-28T12:11:55.875685",
+      "name": "Staked HYPE",
+      "symbol": "STHYPE"
+    },
+    "stargate-finance": {
+      "first_seen": "2025-08-28T12:11:55.875687",
+      "name": "Stargate Finance",
+      "symbol": "STG"
+    },
+    "metaplex": {
+      "first_seen": "2025-08-28T12:11:55.875689",
+      "name": "Metaplex",
+      "symbol": "MPLX"
+    },
+    "verus-coin": {
+      "first_seen": "2025-08-28T12:11:55.875691",
+      "name": "Verus",
+      "symbol": "VRSC"
+    },
+    "skale": {
+      "first_seen": "2025-08-28T12:11:55.875694",
+      "name": "SKALE",
+      "symbol": "SKL"
+    },
+    "bnb48-club-token": {
+      "first_seen": "2025-08-28T12:11:55.875696",
+      "name": "KOGE",
+      "symbol": "KOGE"
+    },
+    "rocket-pool": {
+      "first_seen": "2025-08-28T12:11:55.875699",
+      "name": "Rocket Pool",
+      "symbol": "RPL"
+    },
+    "hashkey-ecopoints": {
+      "first_seen": "2025-08-28T12:11:55.875701",
+      "name": "HashKey Platform Token",
+      "symbol": "HSK"
+    },
+    "digibyte": {
+      "first_seen": "2025-08-28T12:11:55.875703",
+      "name": "DigiByte",
+      "symbol": "DGB"
+    },
+    "gmx": {
+      "first_seen": "2025-08-28T12:11:55.875708",
+      "name": "GMX",
+      "symbol": "GMX"
+    },
+    "aelf": {
+      "first_seen": "2025-08-28T12:11:55.875710",
+      "name": "aelf",
+      "symbol": "ELF"
+    },
+    "polymesh": {
+      "first_seen": "2025-08-28T12:11:55.875713",
+      "name": "Polymesh",
+      "symbol": "POLYX"
+    },
+    "mbg-by-multibank-group": {
+      "first_seen": "2025-08-28T12:11:55.875715",
+      "name": "MBG By Multibank Group",
+      "symbol": "$MBG"
+    },
+    "kinesis-gold": {
+      "first_seen": "2025-08-28T12:11:55.875717",
+      "name": "Kinesis Gold",
+      "symbol": "KAU"
+    },
+    "harmony": {
+      "first_seen": "2025-08-28T12:11:55.875722",
+      "name": "Harmony",
+      "symbol": "ONE"
+    },
+    "ankr": {
+      "first_seen": "2025-08-28T12:11:55.875724",
+      "name": "Ankr Network",
+      "symbol": "ANKR"
+    },
+    "ignition-fbtc": {
+      "first_seen": "2025-08-28T12:11:55.875726",
+      "name": "Function \u0192BTC",
+      "symbol": "FBTC"
+    },
+    "sui-bridged-wbtc-sui": {
+      "first_seen": "2025-08-28T12:11:55.875729",
+      "name": "Sui Bridged WBTC (Sui)",
+      "symbol": "WBTC"
+    },
+    "sushi": {
+      "first_seen": "2025-08-28T12:11:55.875731",
+      "name": "Sushi",
+      "symbol": "SUSHI"
+    },
+    "neiro-3": {
+      "first_seen": "2025-08-28T12:11:55.875734",
+      "name": "Neiro",
+      "symbol": "NEIRO"
+    },
+    "myx-finance": {
+      "first_seen": "2025-08-28T12:11:55.875736",
+      "name": "MYX Finance",
+      "symbol": "MYX"
+    },
+    "ribbita-by-virtuals": {
+      "first_seen": "2025-08-28T12:11:55.875738",
+      "name": "Ribbita by Virtuals",
+      "symbol": "TIBBIR"
+    },
+    "uxlink": {
+      "first_seen": "2025-08-28T12:11:55.875740",
+      "name": "UXLINK",
+      "symbol": "UXLINK"
+    },
+    "kamino": {
+      "first_seen": "2025-08-28T12:11:55.875743",
+      "name": "Kamino",
+      "symbol": "KMNO"
+    },
+    "yieldfi-ytoken": {
+      "first_seen": "2025-08-28T12:11:55.875745",
+      "name": "YieldFi yToken",
+      "symbol": "YUSD"
+    },
+    "melania-meme": {
+      "first_seen": "2025-08-28T12:11:55.875747",
+      "name": "Melania Meme",
+      "symbol": "MELANIA"
+    },
+    "kinesis-silver": {
+      "first_seen": "2025-08-28T12:11:55.875749",
+      "name": "Kinesis Silver",
+      "symbol": "KAG"
+    },
+    "api3": {
+      "first_seen": "2025-08-28T12:11:55.875752",
+      "name": "Api3",
+      "symbol": "API3"
+    },
+    "minidoge-5": {
+      "first_seen": "2025-08-28T12:11:55.875754",
+      "name": "Minidoge",
+      "symbol": "MINIDOGE"
+    },
+    "fartful": {
+      "first_seen": "2025-08-28T12:11:55.875756",
+      "name": "FARTFUL",
+      "symbol": "FARTFUL"
+    },
+    "aura-on-sol": {
+      "first_seen": "2025-08-28T12:11:55.875758",
+      "name": "aura",
+      "symbol": "AURA"
+    },
+    "ontology": {
+      "first_seen": "2025-08-28T12:11:55.875761",
+      "name": "Ontology",
+      "symbol": "ONT"
+    },
+    "marsmi": {
+      "first_seen": "2025-08-28T12:11:55.875763",
+      "name": "MarsMi",
+      "symbol": "MARSMI"
+    },
+    "stasis-eurs": {
+      "first_seen": "2025-08-28T12:11:55.875765",
+      "name": "STASIS EURO",
+      "symbol": "EURS"
+    },
+    "lcx": {
+      "first_seen": "2025-08-28T12:11:55.875767",
+      "name": "LCX",
+      "symbol": "LCX"
+    },
+    "mantle-bridged-usde-mantle": {
+      "first_seen": "2025-08-28T12:11:55.875770",
+      "name": "Mantle Bridged USDe (Mantle)",
+      "symbol": "USDE"
+    },
+    "osaka-protocol": {
+      "first_seen": "2025-08-28T12:11:55.875772",
+      "name": "Osaka Protocol",
+      "symbol": "OSAK"
+    },
+    "xyo-network": {
+      "first_seen": "2025-08-28T12:11:55.875774",
+      "name": "XYO Network",
+      "symbol": "XYO"
+    },
+    "zignaly": {
+      "first_seen": "2025-08-28T12:11:55.875776",
+      "name": "ZIGChain",
+      "symbol": "ZIG"
+    },
+    "orca": {
+      "first_seen": "2025-08-28T12:11:55.875778",
+      "name": "Orca",
+      "symbol": "ORCA"
+    },
+    "chia": {
+      "first_seen": "2025-08-28T12:11:55.875781",
+      "name": "Chia",
+      "symbol": "XCH"
+    },
+    "clearpool": {
+      "first_seen": "2025-08-28T12:11:55.875783",
+      "name": "Clearpool",
+      "symbol": "CPOOL"
+    },
+    "icon": {
+      "first_seen": "2025-08-28T12:11:55.875785",
+      "name": "ICON",
+      "symbol": "ICX"
+    },
+    "altlayer": {
+      "first_seen": "2025-08-28T12:11:55.875787",
+      "name": "AltLayer",
+      "symbol": "ALT"
+    },
+    "solo-coin": {
+      "first_seen": "2025-08-28T12:11:55.875790",
+      "name": "Sologenic",
+      "symbol": "SOLO"
+    },
+    "book-of-meme": {
+      "first_seen": "2025-08-28T12:11:55.875792",
+      "name": "BOOK OF MEME",
+      "symbol": "BOME"
+    },
+    "moo-deng": {
+      "first_seen": "2025-08-28T12:11:55.875794",
+      "name": "Moo Deng",
+      "symbol": "MOODENG"
+    },
+    "illuvium": {
+      "first_seen": "2025-08-28T12:11:55.875797",
+      "name": "Illuvium",
+      "symbol": "ILV"
+    },
+    "uma": {
+      "first_seen": "2025-08-28T12:11:55.875799",
+      "name": "UMA",
+      "symbol": "UMA"
+    },
+    "ai-companions": {
+      "first_seen": "2025-08-28T12:11:55.875804",
+      "name": "AI Companions",
+      "symbol": "AIC"
+    },
+    "renzo-restaked-lst": {
+      "first_seen": "2025-08-28T12:11:55.875806",
+      "name": "Renzo Restaked LST",
+      "symbol": "PZETH"
+    },
+    "band-protocol": {
+      "first_seen": "2025-08-28T12:11:55.875808",
+      "name": "Band",
+      "symbol": "BAND"
+    },
+    "zencash": {
+      "first_seen": "2025-08-28T12:11:55.875811",
+      "name": "Horizen",
+      "symbol": "ZEN"
+    },
+    "moonwell-flagship-eth-morpho-vault": {
+      "first_seen": "2025-08-28T12:11:55.875813",
+      "name": "Moonwell Flagship ETH (Morpho Vault)",
+      "symbol": "MWETH"
+    },
+    "woo-network": {
+      "first_seen": "2025-08-28T12:11:55.875815",
+      "name": "WOO",
+      "symbol": "WOO"
+    },
+    "casper-network": {
+      "first_seen": "2025-08-28T12:11:55.875818",
+      "name": "Casper Network",
+      "symbol": "CSPR"
+    },
+    "stepn": {
+      "first_seen": "2025-08-28T12:11:55.875820",
+      "name": "GMT",
+      "symbol": "GMT"
+    },
+    "the-grays-currency": {
+      "first_seen": "2025-08-28T12:11:55.875822",
+      "name": "The Grays Currency",
+      "symbol": "PTGC"
+    },
+    "coinex-token": {
+      "first_seen": "2025-08-28T12:11:55.875824",
+      "name": "CoinEx",
+      "symbol": "CET"
+    },
+    "liquid-hype-yield": {
+      "first_seen": "2025-08-28T12:11:55.875826",
+      "name": "Liquid HYPE Yield",
+      "symbol": "LIQUIDHYPE"
+    },
+    "elixir-deusd": {
+      "first_seen": "2025-08-28T12:11:55.875829",
+      "name": "Elixir deUSD",
+      "symbol": "DEUSD"
+    },
+    "vana": {
+      "first_seen": "2025-08-28T12:11:55.875831",
+      "name": "Vana",
+      "symbol": "VANA"
+    },
+    "world-mobile-token": {
+      "first_seen": "2025-08-28T12:11:55.875833",
+      "name": "World Mobile Token",
+      "symbol": "WMTX"
+    },
+    "yu": {
+      "first_seen": "2025-08-28T12:11:55.875835",
+      "name": "Yala Stablecoin",
+      "symbol": "YU"
+    },
+    "avalanche-bridged-weth-avalanche": {
+      "first_seen": "2025-08-28T12:11:55.875837",
+      "name": "Avalanche Bridged WETH (Avalanche)",
+      "symbol": "WETH"
+    },
+    "spiko-us-t-bills-money-market-fund": {
+      "first_seen": "2025-08-28T12:11:55.875839",
+      "name": "Spiko US T-Bills Money Market Fund",
+      "symbol": "USTBL"
+    },
+    "omni-network": {
+      "first_seen": "2025-08-28T12:11:55.875842",
+      "name": "Omni Network",
+      "symbol": "OMNI"
+    },
+    "wrapped-centrifuge": {
+      "first_seen": "2025-08-28T12:11:55.875844",
+      "name": "Wrapped Centrifuge",
+      "symbol": "WCFG"
+    },
+    "bitkub-coin": {
+      "first_seen": "2025-08-28T12:11:55.875846",
+      "name": "KUB Coin",
+      "symbol": "KUB"
+    },
+    "conscious-token": {
+      "first_seen": "2025-08-28T12:11:55.875848",
+      "name": "Conscious Token",
+      "symbol": "CONSCIOUS"
+    },
+    "degen-base": {
+      "first_seen": "2025-08-28T12:11:55.875850",
+      "name": "Degen",
+      "symbol": "DEGEN"
+    },
+    "enjincoin": {
+      "first_seen": "2025-08-28T12:11:55.875853",
+      "name": "Enjin Coin",
+      "symbol": "ENJ"
+    },
+    "stronghold-token": {
+      "first_seen": "2025-08-28T12:11:55.875855",
+      "name": "Stronghold",
+      "symbol": "SHX"
+    },
+    "babylon": {
+      "first_seen": "2025-08-28T12:11:55.875857",
+      "name": "Babylon",
+      "symbol": "BABY"
+    },
+    "nano": {
+      "first_seen": "2025-08-28T12:11:55.875859",
+      "name": "Nano",
+      "symbol": "XNO"
+    },
+    "osmosis": {
+      "first_seen": "2025-08-28T12:11:55.875862",
+      "name": "Osmosis",
+      "symbol": "OSMO"
+    },
+    "f-x-protocol-fxusd": {
+      "first_seen": "2025-08-28T12:11:55.875864",
+      "name": "f(x) Protocol fxUSD",
+      "symbol": "FXUSD"
+    },
+    "undeads-games": {
+      "first_seen": "2025-08-28T12:11:55.875866",
+      "name": "Undeads Games",
+      "symbol": "UDS"
+    },
+    "mask-network": {
+      "first_seen": "2025-08-28T12:11:55.875875",
+      "name": "Mask Network",
+      "symbol": "MASK"
+    },
+    "dola-usd": {
+      "first_seen": "2025-08-28T12:11:55.875877",
+      "name": "DOLA",
+      "symbol": "DOLA"
+    },
+    "verasity": {
+      "first_seen": "2025-08-28T12:11:55.875879",
+      "name": "Verasity",
+      "symbol": "VRA"
+    },
+    "aleo": {
+      "first_seen": "2025-08-28T12:11:55.875881",
+      "name": "ALEO",
+      "symbol": "ALEO"
+    },
+    "coti": {
+      "first_seen": "2025-08-28T12:11:55.875884",
+      "name": "COTI",
+      "symbol": "COTI"
+    },
+    "rollbit-coin": {
+      "first_seen": "2025-08-28T12:11:55.875886",
+      "name": "Rollbit Coin",
+      "symbol": "RLB"
+    },
+    "pythia": {
+      "first_seen": "2025-08-28T12:11:55.875888",
+      "name": "PYTHIA",
+      "symbol": "PYTHIA"
+    },
+    "waves": {
+      "first_seen": "2025-08-28T12:11:55.875890",
+      "name": "Waves",
+      "symbol": "WAVES"
+    },
+    "gems-vip": {
+      "first_seen": "2025-08-28T12:11:55.875893",
+      "name": "Gems VIP",
+      "symbol": "GEMS"
+    },
+    "kadena": {
+      "first_seen": "2025-08-28T12:11:55.875895",
+      "name": "Kadena",
+      "symbol": "KDA"
+    },
+    "anzen-usdz": {
+      "first_seen": "2025-08-28T12:11:55.875897",
+      "name": "Anzen USDz",
+      "symbol": "USDZ"
+    },
+    "torch-of-liberty": {
+      "first_seen": "2025-08-28T12:11:55.875903",
+      "name": "Torch of Liberty",
+      "symbol": "LIBERTY"
+    },
+    "ai16z": {
+      "first_seen": "2025-08-28T12:11:55.875905",
+      "name": "ai16z",
+      "symbol": "AI16Z"
+    },
+    "gigachad-2": {
+      "first_seen": "2025-08-28T12:11:55.875907",
+      "name": "Gigachad",
+      "symbol": "GIGA"
+    },
+    "redstone-oracles": {
+      "first_seen": "2025-08-28T12:11:55.875910",
+      "name": "RedStone",
+      "symbol": "RED"
+    },
+    "caldera": {
+      "first_seen": "2025-08-28T12:11:55.875912",
+      "name": "Caldera",
+      "symbol": "ERA"
+    },
+    "swipe": {
+      "first_seen": "2025-08-28T12:11:55.875917",
+      "name": "Solar",
+      "symbol": "SXP"
+    },
+    "hyperbeat-usdt": {
+      "first_seen": "2025-08-28T12:11:55.875919",
+      "name": "Hyperbeat USDT",
+      "symbol": "HBUSDT"
+    },
+    "biconomy": {
+      "first_seen": "2025-08-28T12:11:55.875922",
+      "name": "Biconomy",
+      "symbol": "BICO"
+    },
+    "solayer": {
+      "first_seen": "2025-08-28T12:11:55.875924",
+      "name": "Solayer",
+      "symbol": "LAYER"
+    },
+    "crvusd": {
+      "first_seen": "2025-08-28T12:11:55.875926",
+      "name": "crvUSD",
+      "symbol": "CRVUSD"
+    },
+    "lorenzo-stbtc": {
+      "first_seen": "2025-08-28T12:11:55.875928",
+      "name": "Lorenzo stBTC",
+      "symbol": "STBTC"
+    },
+    "wilder-world": {
+      "first_seen": "2025-08-28T12:11:55.875931",
+      "name": "Wilder World",
+      "symbol": "WILD"
+    },
+    "gohome": {
+      "first_seen": "2025-08-28T12:11:55.875933",
+      "name": "GOHOME",
+      "symbol": "GOHOME"
+    },
+    "io": {
+      "first_seen": "2025-08-28T12:11:55.875935",
+      "name": "io.net",
+      "symbol": "IO"
+    },
+    "blast": {
+      "first_seen": "2025-08-28T12:11:55.875938",
+      "name": "Blast",
+      "symbol": "BLAST"
+    },
+    "ozone-chain": {
+      "first_seen": "2025-08-28T12:11:55.875940",
+      "name": "Ozone Chain",
+      "symbol": "OZO"
+    },
+    "revox": {
+      "first_seen": "2025-08-28T12:11:55.875943",
+      "name": "REVOX",
+      "symbol": "REX"
+    },
+    "sbtc-2": {
+      "first_seen": "2025-08-28T12:11:55.875945",
+      "name": "sBTC",
+      "symbol": "SBTC"
+    },
+    "magic-eden": {
+      "first_seen": "2025-08-28T12:11:55.875947",
+      "name": "Magic Eden",
+      "symbol": "ME"
+    },
+    "wrapped-zenbtc": {
+      "first_seen": "2025-08-28T12:11:55.875949",
+      "name": "Zenrock BTC",
+      "symbol": "ZENBTC"
+    },
+    "loopring": {
+      "first_seen": "2025-08-28T12:11:55.875951",
+      "name": "Loopring",
+      "symbol": "LRC"
+    },
+    "ronin-bridged-weth-ronin": {
+      "first_seen": "2025-08-28T12:11:55.875954",
+      "name": "Ronin Bridged WETH (Ronin)",
+      "symbol": "WETH"
+    },
+    "bridged-wrapped-ether-starkgate": {
+      "first_seen": "2025-08-28T12:11:55.875956",
+      "name": "Bridged Ether (StarkGate)",
+      "symbol": "ETH"
+    },
+    "acet-token": {
+      "first_seen": "2025-08-28T12:11:55.875958",
+      "name": "Acet",
+      "symbol": "ACT"
+    },
+    "phantom-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.875960",
+      "name": "Phantom Staked SOL",
+      "symbol": "PSOL"
+    },
+    "amnis-aptos": {
+      "first_seen": "2025-08-28T12:11:55.875963",
+      "name": "Amnis Aptos",
+      "symbol": "AMAPT"
+    },
+    "apollo-diversified-credit-securitize-fund": {
+      "first_seen": "2025-08-28T12:11:55.875965",
+      "name": "Apollo Diversified Credit Securitize Fund",
+      "symbol": "ACRED"
+    },
+    "savings-xdai": {
+      "first_seen": "2025-08-28T12:11:55.875967",
+      "name": "Savings xDAI",
+      "symbol": "SDAI"
+    },
+    "iexec-rlc": {
+      "first_seen": "2025-08-28T12:11:55.875969",
+      "name": "iExec RLC",
+      "symbol": "RLC"
+    },
+    "echelon-prime": {
+      "first_seen": "2025-08-28T12:11:55.875971",
+      "name": "Echelon Prime",
+      "symbol": "PRIME"
+    },
+    "coreum": {
+      "first_seen": "2025-08-28T12:11:55.875974",
+      "name": "Coreum",
+      "symbol": "COREUM"
+    },
+    "venus": {
+      "first_seen": "2025-08-28T12:11:55.875976",
+      "name": "Venus",
+      "symbol": "XVS"
+    },
+    "solayer-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.875978",
+      "name": "Solayer Staked SOL",
+      "symbol": "SSOL"
+    },
+    "reservoir-srusd": {
+      "first_seen": "2025-08-28T12:11:55.875980",
+      "name": "Reservoir srUSD",
+      "symbol": "SRUSD"
+    },
+    "request-network": {
+      "first_seen": "2025-08-28T12:11:55.875982",
+      "name": "Request",
+      "symbol": "REQ"
+    },
+    "chex-token": {
+      "first_seen": "2025-08-28T12:11:55.875985",
+      "name": "Chintai",
+      "symbol": "CHEX"
+    },
+    "merlin-chain": {
+      "first_seen": "2025-08-28T12:11:55.875987",
+      "name": "Merlin Chain",
+      "symbol": "MERL"
+    },
+    "swop-2": {
+      "first_seen": "2025-08-28T12:11:55.875989",
+      "name": "Swop",
+      "symbol": "SWOP"
+    },
+    "venice-token": {
+      "first_seen": "2025-08-28T12:11:55.875991",
+      "name": "Venice Token",
+      "symbol": "VVV"
+    },
+    "home": {
+      "first_seen": "2025-08-28T12:11:55.875994",
+      "name": "HOME",
+      "symbol": "HOME"
+    },
+    "fx-usd-saving": {
+      "first_seen": "2025-08-28T12:11:55.875999",
+      "name": "f(x) USD Saving",
+      "symbol": "FXSAVE"
+    },
+    "status": {
+      "first_seen": "2025-08-28T12:11:55.876001",
+      "name": "Status",
+      "symbol": "SNT"
+    },
+    "purr-2": {
+      "first_seen": "2025-08-28T12:11:55.876004",
+      "name": "Purr",
+      "symbol": "PURR"
+    },
+    "vicicoin": {
+      "first_seen": "2025-08-28T12:11:55.876007",
+      "name": "ViciCoin",
+      "symbol": "VCNT"
+    },
+    "aixbt": {
+      "first_seen": "2025-08-28T12:11:55.876009",
+      "name": "aixbt",
+      "symbol": "AIXBT"
+    },
+    "bora": {
+      "first_seen": "2025-08-28T12:11:55.876011",
+      "name": "BORA",
+      "symbol": "BORA"
+    },
+    "metis-token": {
+      "first_seen": "2025-08-28T12:11:55.876014",
+      "name": "Metis",
+      "symbol": "METIS"
+    },
+    "rujira": {
+      "first_seen": "2025-08-28T12:11:55.876016",
+      "name": "Rujira",
+      "symbol": "RUJI"
+    },
+    "big-time": {
+      "first_seen": "2025-08-28T12:11:55.876018",
+      "name": "Big Time",
+      "symbol": "BIGTIME"
+    },
+    "moonwell-artemis": {
+      "first_seen": "2025-08-28T12:11:55.876020",
+      "name": "Moonwell",
+      "symbol": "WELL"
+    },
+    "bitmart-token": {
+      "first_seen": "2025-08-28T12:11:55.876022",
+      "name": "BitMart",
+      "symbol": "BMX"
+    },
+    "entangle": {
+      "first_seen": "2025-08-28T12:11:55.876025",
+      "name": "Entangle",
+      "symbol": "NTGL"
+    },
+    "terra-luna-2": {
+      "first_seen": "2025-08-28T12:11:55.876027",
+      "name": "Terra",
+      "symbol": "LUNA"
+    },
+    "unit-pump": {
+      "first_seen": "2025-08-28T12:11:55.876031",
+      "name": "Unit Pump",
+      "symbol": "UPUMP"
+    },
+    "onyc": {
+      "first_seen": "2025-08-28T12:11:55.876034",
+      "name": "Onchain Yield Coin",
+      "symbol": "ONYC"
+    },
+    "alchemy-pay": {
+      "first_seen": "2025-08-28T12:11:55.876036",
+      "name": "Alchemy Pay",
+      "symbol": "ACH"
+    },
+    "restaked-swell-eth": {
+      "first_seen": "2025-08-28T12:11:55.876038",
+      "name": "Restaked Swell ETH",
+      "symbol": "RSWETH"
+    },
+    "hive": {
+      "first_seen": "2025-08-28T12:11:55.876040",
+      "name": "Hive",
+      "symbol": "HIVE"
+    },
+    "freysa-ai": {
+      "first_seen": "2025-08-28T12:11:55.876043",
+      "name": "Freysa AI",
+      "symbol": "FAI"
+    },
+    "tradable-singapore-fintech-ssl-2": {
+      "first_seen": "2025-08-28T12:11:55.876045",
+      "name": "Tradable Singapore Fintech SSL",
+      "symbol": "PC0000023"
+    },
+    "ecomi": {
+      "first_seen": "2025-08-28T12:11:55.876047",
+      "name": "ECOMI",
+      "symbol": "OMI"
+    },
+    "neiro-on-eth": {
+      "first_seen": "2025-08-28T12:11:55.876050",
+      "name": "Neiro on ETH",
+      "symbol": "NEIRO"
+    },
+    "ika": {
+      "first_seen": "2025-08-28T12:11:55.876052",
+      "name": "Ika",
+      "symbol": "IKA"
+    },
+    "sign-global": {
+      "first_seen": "2025-08-28T12:11:55.876054",
+      "name": "Sign",
+      "symbol": "SIGN"
+    },
+    "qusdt": {
+      "first_seen": "2025-08-28T12:11:55.876057",
+      "name": "QL1 Bridged USDT (QL1)",
+      "symbol": "QUSDT"
+    },
+    "funfair": {
+      "first_seen": "2025-08-28T12:11:55.876059",
+      "name": "FUNToken",
+      "symbol": "FUN"
+    },
+    "verge": {
+      "first_seen": "2025-08-28T12:11:55.876061",
+      "name": "Verge",
+      "symbol": "XVG"
+    },
+    "wrapped-aave-ethereum-usdc": {
+      "first_seen": "2025-08-28T12:11:55.876063",
+      "name": "Wrapped Aave Ethereum USDC",
+      "symbol": "WAETHUSDC"
+    },
+    "stp-network": {
+      "first_seen": "2025-08-28T12:11:55.876066",
+      "name": "AWE Network",
+      "symbol": "AWE"
+    },
+    "across-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876068",
+      "name": "Across Protocol",
+      "symbol": "ACX"
+    },
+    "cyberconnect": {
+      "first_seen": "2025-08-28T12:11:55.876070",
+      "name": "CYBER",
+      "symbol": "CYBER"
+    },
+    "spark-2": {
+      "first_seen": "2025-08-28T12:11:55.876073",
+      "name": "Spark",
+      "symbol": "SPK"
+    },
+    "swftcoin": {
+      "first_seen": "2025-08-28T12:11:55.876075",
+      "name": "SWFTCOIN",
+      "symbol": "SWFTC"
+    },
+    "constitutiondao": {
+      "first_seen": "2025-08-28T12:11:55.876077",
+      "name": "ConstitutionDAO",
+      "symbol": "PEOPLE"
+    },
+    "constellation-labs": {
+      "first_seen": "2025-08-28T12:11:55.876079",
+      "name": "Constellation",
+      "symbol": "DAG"
+    },
+    "l2-standard-bridged-weth-optimism": {
+      "first_seen": "2025-08-28T12:11:55.876082",
+      "name": "L2 Standard Bridged WETH (Optimism)",
+      "symbol": "WETH"
+    },
+    "unit-00-rei": {
+      "first_seen": "2025-08-28T12:11:55.876084",
+      "name": "Rei",
+      "symbol": "REI"
+    },
+    "pumpbtc": {
+      "first_seen": "2025-08-28T12:11:55.876087",
+      "name": "pumpBTC",
+      "symbol": "PUMPBTC"
+    },
+    "yield-guild-games": {
+      "first_seen": "2025-08-28T12:11:55.876089",
+      "name": "Yield Guild Games",
+      "symbol": "YGG"
+    },
+    "optimism-bridged-wbtc-optimism": {
+      "first_seen": "2025-08-28T12:11:55.876091",
+      "name": "Optimism Bridged WBTC (Optimism)",
+      "symbol": "WBTC"
+    },
+    "avant-usd": {
+      "first_seen": "2025-08-28T12:11:55.876105",
+      "name": "Avant USD",
+      "symbol": "AVUSD"
+    },
+    "tagger": {
+      "first_seen": "2025-08-28T12:11:55.876107",
+      "name": "TAGGER",
+      "symbol": "TAG"
+    },
+    "wrapped-aave-ethereum-usdt": {
+      "first_seen": "2025-08-28T12:11:55.876110",
+      "name": "Wrapped Aave Ethereum USDT",
+      "symbol": "WAETHUSDT"
+    },
+    "six": {
+      "first_seen": "2025-08-28T12:11:55.876112",
+      "name": "Six Sigma",
+      "symbol": "SIX"
+    },
+    "novem-pro": {
+      "first_seen": "2025-08-28T12:11:55.876114",
+      "name": "Novem Pro",
+      "symbol": "NVM"
+    },
+    "vaultbridge-bridged-eth-katana": {
+      "first_seen": "2025-08-28T12:11:55.876117",
+      "name": "VaultBridge Bridged ETH (Katana)",
+      "symbol": "VBETH"
+    },
+    "iostoken": {
+      "first_seen": "2025-08-28T12:11:55.876120",
+      "name": "IOST",
+      "symbol": "IOST"
+    },
+    "bonfida": {
+      "first_seen": "2025-08-28T12:11:55.876122",
+      "name": "Bonfida (aka SNS)",
+      "symbol": "FIDA"
+    },
+    "pha": {
+      "first_seen": "2025-08-28T12:11:55.876124",
+      "name": "PHALA",
+      "symbol": "PHA"
+    },
+    "manta-network": {
+      "first_seen": "2025-08-28T12:11:55.876127",
+      "name": "Manta Network",
+      "symbol": "MANTA"
+    },
+    "tellor": {
+      "first_seen": "2025-08-28T12:11:55.876131",
+      "name": "Tellor Tributes",
+      "symbol": "TRB"
+    },
+    "infinifi-usd": {
+      "first_seen": "2025-08-28T12:11:55.876133",
+      "name": "InfiniFi USD",
+      "symbol": "IUSD"
+    },
+    "avant-staked-usd": {
+      "first_seen": "2025-08-28T12:11:55.876136",
+      "name": "Avant Staked USD",
+      "symbol": "SAVUSD"
+    },
+    "beets-staked-sonic": {
+      "first_seen": "2025-08-28T12:11:55.876138",
+      "name": "Beets Staked Sonic",
+      "symbol": "STS"
+    },
+    "carv": {
+      "first_seen": "2025-08-28T12:11:55.876140",
+      "name": "CARV",
+      "symbol": "CARV"
+    },
+    "sui-bridged-usdt-sui": {
+      "first_seen": "2025-08-28T12:11:55.876142",
+      "name": "Sui Bridged USDT (Sui)",
+      "symbol": "SBUSDT"
+    },
+    "anime": {
+      "first_seen": "2025-08-28T12:11:55.876144",
+      "name": "Animecoin",
+      "symbol": "ANIME"
+    },
+    "project-galaxy": {
+      "first_seen": "2025-08-28T12:11:55.876147",
+      "name": "GAL (migrated to Gravity - G)",
+      "symbol": "GAL"
+    },
+    "songbird": {
+      "first_seen": "2025-08-28T12:11:55.876149",
+      "name": "Songbird",
+      "symbol": "SGB"
+    },
+    "bc-token": {
+      "first_seen": "2025-08-28T12:11:55.876151",
+      "name": "BCGame Coin",
+      "symbol": "BC"
+    },
+    "bridged-usd-coin-linea": {
+      "first_seen": "2025-08-28T12:11:55.876155",
+      "name": "Bridged USD Coin (Linea)",
+      "symbol": "USDC"
+    },
+    "kelp-gain": {
+      "first_seen": "2025-08-28T12:11:55.876157",
+      "name": "Kelp Gain",
+      "symbol": "AGETH"
+    },
+    "stratis": {
+      "first_seen": "2025-08-28T12:11:55.876160",
+      "name": "Stratis",
+      "symbol": "STRAX"
+    },
+    "comedian": {
+      "first_seen": "2025-08-28T12:11:55.876162",
+      "name": "Comedian",
+      "symbol": "BAN"
+    },
+    "dia-data": {
+      "first_seen": "2025-08-28T12:11:55.876165",
+      "name": "DIA",
+      "symbol": "DIA"
+    },
+    "bancor": {
+      "first_seen": "2025-08-28T12:11:55.876167",
+      "name": "Bancor Network",
+      "symbol": "BNT"
+    },
+    "cronos-bridged-usdt-cronos": {
+      "first_seen": "2025-08-28T12:11:55.876169",
+      "name": "Cronos Bridged USDT (Cronos)",
+      "symbol": "USDT"
+    },
+    "usdai": {
+      "first_seen": "2025-08-28T12:11:55.876172",
+      "name": "USDai",
+      "symbol": "USDAI"
+    },
+    "pay-coin": {
+      "first_seen": "2025-08-28T12:11:55.876174",
+      "name": "Paycoin",
+      "symbol": "PCI"
+    },
+    "temple": {
+      "first_seen": "2025-08-28T12:11:55.876177",
+      "name": "TempleDAO",
+      "symbol": "TEMPLE"
+    },
+    "apertum": {
+      "first_seen": "2025-08-28T12:11:55.876179",
+      "name": "Apertum",
+      "symbol": "APTM"
+    },
+    "hivemapper": {
+      "first_seen": "2025-08-28T12:11:55.876181",
+      "name": "Hivemapper",
+      "symbol": "HONEY"
+    },
+    "wiki-cat": {
+      "first_seen": "2025-08-28T12:11:55.876183",
+      "name": "Wiki Cat",
+      "symbol": "WKC"
+    },
+    "delysium": {
+      "first_seen": "2025-08-28T12:11:55.876185",
+      "name": "Delysium",
+      "symbol": "AGI"
+    },
+    "audius": {
+      "first_seen": "2025-08-28T12:11:55.876188",
+      "name": "Audius",
+      "symbol": "AUDIO"
+    },
+    "chromaway": {
+      "first_seen": "2025-08-28T12:11:55.876190",
+      "name": "Chromia",
+      "symbol": "CHR"
+    },
+    "definitive": {
+      "first_seen": "2025-08-28T12:11:55.876195",
+      "name": "Definitive",
+      "symbol": "EDGE"
+    },
+    "power-ledger": {
+      "first_seen": "2025-08-28T12:11:55.876198",
+      "name": "Powerledger",
+      "symbol": "POWR"
+    },
+    "ardor": {
+      "first_seen": "2025-08-28T12:11:55.876200",
+      "name": "Ardor",
+      "symbol": "ARDR"
+    },
+    "goatseus-maximus": {
+      "first_seen": "2025-08-28T12:11:55.876202",
+      "name": "Goatseus Maximus",
+      "symbol": "GOAT"
+    },
+    "ark": {
+      "first_seen": "2025-08-28T12:11:55.876207",
+      "name": "ARK",
+      "symbol": "ARK"
+    },
+    "orbs": {
+      "first_seen": "2025-08-28T12:11:55.876210",
+      "name": "Orbs",
+      "symbol": "ORBS"
+    },
+    "balancer": {
+      "first_seen": "2025-08-28T12:11:55.876212",
+      "name": "Balancer",
+      "symbol": "BAL"
+    },
+    "bim-2": {
+      "first_seen": "2025-08-28T12:11:55.876214",
+      "name": "BIM",
+      "symbol": "BIM"
+    },
+    "aevo-exchange": {
+      "first_seen": "2025-08-28T12:11:55.876217",
+      "name": "Aevo",
+      "symbol": "AEVO"
+    },
+    "tokenlon": {
+      "first_seen": "2025-08-28T12:11:55.876219",
+      "name": "Tokenlon",
+      "symbol": "LON"
+    },
+    "g-token": {
+      "first_seen": "2025-08-28T12:11:55.876221",
+      "name": "Gravity (by Galxe)",
+      "symbol": "G"
+    },
+    "shuffle-2": {
+      "first_seen": "2025-08-28T12:11:55.876223",
+      "name": "Shuffle",
+      "symbol": "SHFL"
+    },
+    "monbasecoin": {
+      "first_seen": "2025-08-28T12:11:55.876226",
+      "name": "MonbaseCoin",
+      "symbol": "MBC"
+    },
+    "spell-token": {
+      "first_seen": "2025-08-28T12:11:55.876228",
+      "name": "Spell",
+      "symbol": "SPELL"
+    },
+    "zelcash": {
+      "first_seen": "2025-08-28T12:11:55.876230",
+      "name": "Flux",
+      "symbol": "FLUX"
+    },
+    "onfa": {
+      "first_seen": "2025-08-28T12:11:55.876232",
+      "name": "ONFA",
+      "symbol": "OFT"
+    },
+    "mass-vehicle-ledger": {
+      "first_seen": "2025-08-28T12:11:55.876237",
+      "name": "MVL",
+      "symbol": "MVL"
+    },
+    "resupply-usd": {
+      "first_seen": "2025-08-28T12:11:55.876239",
+      "name": "Resupply USD",
+      "symbol": "REUSD"
+    },
+    "quantixai": {
+      "first_seen": "2025-08-28T12:11:55.876242",
+      "name": "QuantixAI",
+      "symbol": "QAI"
+    },
+    "singularitynet": {
+      "first_seen": "2025-08-28T12:11:55.876244",
+      "name": "SingularityNET",
+      "symbol": "AGIX"
+    },
+    "banana-gun": {
+      "first_seen": "2025-08-28T12:11:55.876246",
+      "name": "Banana Gun",
+      "symbol": "BANANA"
+    },
+    "susda": {
+      "first_seen": "2025-08-28T12:11:55.876249",
+      "name": "sUSDa",
+      "symbol": "SUSDA"
+    },
+    "bertram-the-pomeranian": {
+      "first_seen": "2025-08-28T12:11:55.876251",
+      "name": "Bertram The Pomeranian",
+      "symbol": "BERT"
+    },
+    "debridge": {
+      "first_seen": "2025-08-28T12:11:55.876253",
+      "name": "deBridge",
+      "symbol": "DBR"
+    },
+    "harrypotterobamasonic10in": {
+      "first_seen": "2025-08-28T12:11:55.876255",
+      "name": "HarryPotterObamaSonic10Inu (ETH)",
+      "symbol": "BITCOIN"
+    },
+    "huobi-token": {
+      "first_seen": "2025-08-28T12:11:55.876258",
+      "name": "Huobi",
+      "symbol": "HT"
+    },
+    "paal-ai": {
+      "first_seen": "2025-08-28T12:11:55.876260",
+      "name": "PAAL AI",
+      "symbol": "PAAL"
+    },
+    "liquity": {
+      "first_seen": "2025-08-28T12:11:55.876262",
+      "name": "Liquity",
+      "symbol": "LQTY"
+    },
+    "b3": {
+      "first_seen": "2025-08-28T12:11:55.876264",
+      "name": "B3 (Base)",
+      "symbol": "B3"
+    },
+    "cetus-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876267",
+      "name": "Cetus Protocol",
+      "symbol": "CETUS"
+    },
+    "staked-usd1": {
+      "first_seen": "2025-08-28T12:11:55.876269",
+      "name": "staked USD1+",
+      "symbol": "SUSD1+"
+    },
+    "cookie": {
+      "first_seen": "2025-08-28T12:11:55.876271",
+      "name": "Cookie DAO",
+      "symbol": "COOKIE"
+    },
+    "chutes": {
+      "first_seen": "2025-08-28T12:11:55.876273",
+      "name": "Chutes",
+      "symbol": "SN64"
+    },
+    "sats-ordinals": {
+      "first_seen": "2025-08-28T12:11:55.876276",
+      "name": "SATS (Ordinals)",
+      "symbol": "SATS"
+    },
+    "dolomite": {
+      "first_seen": "2025-08-28T12:11:55.876278",
+      "name": "Dolomite",
+      "symbol": "DOLO"
+    },
+    "tdccp": {
+      "first_seen": "2025-08-28T12:11:55.876280",
+      "name": "TDCCP",
+      "symbol": "TDCCP"
+    },
+    "alchemist-ai": {
+      "first_seen": "2025-08-28T12:11:55.876282",
+      "name": "Alchemist AI",
+      "symbol": "ALCH"
+    },
+    "straitsx-xusd": {
+      "first_seen": "2025-08-28T12:11:55.876285",
+      "name": "StraitsX XUSD",
+      "symbol": "XUSD"
+    },
+    "helder": {
+      "first_seen": "2025-08-28T12:11:55.876287",
+      "name": "Helder",
+      "symbol": "HLDR"
+    },
+    "dymension": {
+      "first_seen": "2025-08-28T12:11:55.876289",
+      "name": "Dymension",
+      "symbol": "DYM"
+    },
+    "relend-usdc": {
+      "first_seen": "2025-08-28T12:11:55.876291",
+      "name": "Relend USDC",
+      "symbol": "REUSDC"
+    },
+    "apu-s-club": {
+      "first_seen": "2025-08-28T12:11:55.876294",
+      "name": "Apu Apustaja",
+      "symbol": "APU"
+    },
+    "chaingpt": {
+      "first_seen": "2025-08-28T12:11:55.876296",
+      "name": "ChainGPT",
+      "symbol": "CGPT"
+    },
+    "peaq-2": {
+      "first_seen": "2025-08-28T12:11:55.876299",
+      "name": "peaq",
+      "symbol": "PEAQ"
+    },
+    "lisk": {
+      "first_seen": "2025-08-28T12:11:55.876303",
+      "name": "Lisk",
+      "symbol": "LSK"
+    },
+    "energy-web-token": {
+      "first_seen": "2025-08-28T12:11:55.876305",
+      "name": "Energy Web",
+      "symbol": "EWT"
+    },
+    "pundi-x-2": {
+      "first_seen": "2025-08-28T12:11:55.876307",
+      "name": "Pundi X",
+      "symbol": "PUNDIX"
+    },
+    "vaultbridge-bridged-usdc-katana": {
+      "first_seen": "2025-08-28T12:11:55.876310",
+      "name": "VaultBridge Bridged USDC (Katana)",
+      "symbol": "VBUSDC"
+    },
+    "everipedia": {
+      "first_seen": "2025-08-28T12:11:55.876312",
+      "name": "IQ",
+      "symbol": "IQ"
+    },
+    "moonbeam": {
+      "first_seen": "2025-08-28T12:11:55.876314",
+      "name": "Moonbeam",
+      "symbol": "GLMR"
+    },
+    "subsquid": {
+      "first_seen": "2025-08-28T12:11:55.876317",
+      "name": "SQD",
+      "symbol": "SQD"
+    },
+    "block-4": {
+      "first_seen": "2025-08-28T12:11:55.876319",
+      "name": "Block",
+      "symbol": "BLOCK"
+    },
+    "terrausd": {
+      "first_seen": "2025-08-28T12:11:55.876321",
+      "name": "TerraClassicUSD",
+      "symbol": "USTC"
+    },
+    "hegic": {
+      "first_seen": "2025-08-28T12:11:55.876324",
+      "name": "Hegic",
+      "symbol": "HEGIC"
+    },
+    "felix-feusd": {
+      "first_seen": "2025-08-28T12:11:55.876326",
+      "name": "Felix feUSD",
+      "symbol": "FEUSD"
+    },
+    "vaneck-treasury-fund": {
+      "first_seen": "2025-08-28T12:11:55.876328",
+      "name": "VanEck Treasury Fund",
+      "symbol": "VBILL"
+    },
+    "taiko": {
+      "first_seen": "2025-08-28T12:11:55.876330",
+      "name": "Taiko",
+      "symbol": "TAIKO"
+    },
+    "cross-2": {
+      "first_seen": "2025-08-28T12:11:55.876332",
+      "name": "Cross",
+      "symbol": "CROSS"
+    },
+    "marlin": {
+      "first_seen": "2025-08-28T12:11:55.876335",
+      "name": "Marlin",
+      "symbol": "POND"
+    },
+    "tharwa": {
+      "first_seen": "2025-08-28T12:11:55.876337",
+      "name": "Tharwa",
+      "symbol": "TRWA"
+    },
+    "dent": {
+      "first_seen": "2025-08-28T12:11:55.876340",
+      "name": "Dent",
+      "symbol": "DENT"
+    },
+    "dkargo": {
+      "first_seen": "2025-08-28T12:11:55.876342",
+      "name": "dKargo",
+      "symbol": "DKA"
+    },
+    "puff-the-dragon": {
+      "first_seen": "2025-08-28T12:11:55.876344",
+      "name": "Puff The Dragon",
+      "symbol": "PUFF"
+    },
+    "milk-alliance": {
+      "first_seen": "2025-08-28T12:11:55.876346",
+      "name": "MiL.k",
+      "symbol": "MLK"
+    },
+    "siren-2": {
+      "first_seen": "2025-08-28T12:11:55.876351",
+      "name": "Siren",
+      "symbol": "SIREN"
+    },
+    "usd-coin-ethereum-bridged": {
+      "first_seen": "2025-08-28T12:11:55.876353",
+      "name": "Arbitrum Bridged USDC (Arbitrum)",
+      "symbol": "USDC.E"
+    },
+    "vine": {
+      "first_seen": "2025-08-28T12:11:55.876355",
+      "name": "Vine",
+      "symbol": "VINE"
+    },
+    "civic": {
+      "first_seen": "2025-08-28T12:11:55.876358",
+      "name": "Civic",
+      "symbol": "CVC"
+    },
+    "dogs-2": {
+      "first_seen": "2025-08-28T12:11:55.876360",
+      "name": "Dogs",
+      "symbol": "DOGS"
+    },
+    "ong": {
+      "first_seen": "2025-08-28T12:11:55.876363",
+      "name": "Ontology Gas",
+      "symbol": "ONG"
+    },
+    "pocket-network": {
+      "first_seen": "2025-08-28T12:11:55.876365",
+      "name": "Pocket Network",
+      "symbol": "POKT"
+    },
+    "saga-2": {
+      "first_seen": "2025-08-28T12:11:55.876368",
+      "name": "Saga",
+      "symbol": "SAGA"
+    },
+    "wrapped-fragsol": {
+      "first_seen": "2025-08-28T12:11:55.876370",
+      "name": "Wrapped fragSOL",
+      "symbol": "WFRAGSOL"
+    },
+    "sonic-svm": {
+      "first_seen": "2025-08-28T12:11:55.876372",
+      "name": "Sonic SVM",
+      "symbol": "SONIC"
+    },
+    "usdx": {
+      "first_seen": "2025-08-28T12:11:55.876375",
+      "name": "USDX",
+      "symbol": "USDX"
+    },
+    "bitdca": {
+      "first_seen": "2025-08-28T12:11:55.876377",
+      "name": "BitDCA",
+      "symbol": "BDCA"
+    },
+    "epic-chain": {
+      "first_seen": "2025-08-28T12:11:55.876379",
+      "name": "Epic Chain",
+      "symbol": "EPIC"
+    },
+    "reservoir-rusd": {
+      "first_seen": "2025-08-28T12:11:55.876382",
+      "name": "Reservoir rUSD",
+      "symbol": "RUSD"
+    },
+    "tokamak-network": {
+      "first_seen": "2025-08-28T12:11:55.876384",
+      "name": "Tokamak Network",
+      "symbol": "TON"
+    },
+    "yzy": {
+      "first_seen": "2025-08-28T12:11:55.876386",
+      "name": "YZY",
+      "symbol": "YZY"
+    },
+    "sui-bridged-ether-sui": {
+      "first_seen": "2025-08-28T12:11:55.876389",
+      "name": "Sui Bridged Ether (Sui)",
+      "symbol": "SBETH"
+    },
+    "wax": {
+      "first_seen": "2025-08-28T12:11:55.876391",
+      "name": "WAX",
+      "symbol": "WAXP"
+    },
+    "openvpp": {
+      "first_seen": "2025-08-28T12:11:55.876393",
+      "name": "OpenVPP",
+      "symbol": "OVPP"
+    },
+    "bucket-protocol-buck-stablecoin": {
+      "first_seen": "2025-08-28T12:11:55.876396",
+      "name": "Bucket Protocol BUCK Stablecoin",
+      "symbol": "BUCK"
+    },
+    "nkyc-token": {
+      "first_seen": "2025-08-28T12:11:55.876400",
+      "name": "NKYC Token",
+      "symbol": "NKYC"
+    },
+    "marinade": {
+      "first_seen": "2025-08-28T12:11:55.876402",
+      "name": "Marinade",
+      "symbol": "MNDE"
+    },
+    "corgiai": {
+      "first_seen": "2025-08-28T12:11:55.876405",
+      "name": "CorgiAI",
+      "symbol": "CORGIAI"
+    },
+    "arcblock": {
+      "first_seen": "2025-08-28T12:11:55.876407",
+      "name": "Arcblock",
+      "symbol": "ABT"
+    },
+    "usual": {
+      "first_seen": "2025-08-28T12:11:55.876409",
+      "name": "Usual",
+      "symbol": "USUAL"
+    },
+    "neutron-3": {
+      "first_seen": "2025-08-28T12:11:55.876412",
+      "name": "Neutron",
+      "symbol": "NTRN"
+    },
+    "staked-frax": {
+      "first_seen": "2025-08-28T12:11:55.876414",
+      "name": "Staked FRAX",
+      "symbol": "SFRAX"
+    },
+    "space-id": {
+      "first_seen": "2025-08-28T12:11:55.876417",
+      "name": "SPACE ID",
+      "symbol": "ID"
+    },
+    "scroll": {
+      "first_seen": "2025-08-28T12:11:55.876419",
+      "name": "Scroll",
+      "symbol": "SCR"
+    },
+    "steem": {
+      "first_seen": "2025-08-28T12:11:55.876422",
+      "name": "Steem",
+      "symbol": "STEEM"
+    },
+    "ergo": {
+      "first_seen": "2025-08-28T12:11:55.876424",
+      "name": "Ergo",
+      "symbol": "ERG"
+    },
+    "whiteheart": {
+      "first_seen": "2025-08-28T12:11:55.876426",
+      "name": "Whiteheart",
+      "symbol": "WHITE"
+    },
+    "banana-for-scale-2": {
+      "first_seen": "2025-08-28T12:11:55.876429",
+      "name": "Banana For Scale",
+      "symbol": "BANANAS31"
+    },
+    "polyhedra-network": {
+      "first_seen": "2025-08-28T12:11:55.876431",
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ"
+    },
+    "treehouse": {
+      "first_seen": "2025-08-28T12:11:55.876433",
+      "name": "Treehouse",
+      "symbol": "TREE"
+    },
+    "kyber-network-crystal": {
+      "first_seen": "2025-08-28T12:11:55.876436",
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC"
+    },
+    "unit-fartcoin": {
+      "first_seen": "2025-08-28T12:11:55.876438",
+      "name": "Unit Fartcoin",
+      "symbol": "UFART"
+    },
+    "frax-usd": {
+      "first_seen": "2025-08-28T12:11:55.876441",
+      "name": "Frax USD",
+      "symbol": "FRXUSD"
+    },
+    "etherfi-bridged-weeth-avalanche": {
+      "first_seen": "2025-08-28T12:11:55.876443",
+      "name": "ether.fi Bridged weETH (Avalanche)",
+      "symbol": "WEETH"
+    },
+    "paxos-standard": {
+      "first_seen": "2025-08-28T12:11:55.876445",
+      "name": "Pax Dollar",
+      "symbol": "USDP"
+    },
+    "electroneum": {
+      "first_seen": "2025-08-28T12:11:55.876448",
+      "name": "Electroneum",
+      "symbol": "ETN"
+    },
+    "coinshift-usdl-morpho-vault": {
+      "first_seen": "2025-08-28T12:11:55.876450",
+      "name": "Coinshift USDL Morpho Vault",
+      "symbol": "CSUSDL"
+    },
+    "auction": {
+      "first_seen": "2025-08-28T12:11:55.876452",
+      "name": "Bounce",
+      "symbol": "AUCTION"
+    },
+    "mythos": {
+      "first_seen": "2025-08-28T12:11:55.876454",
+      "name": "Mythos",
+      "symbol": "MYTH"
+    },
+    "magic": {
+      "first_seen": "2025-08-28T12:11:55.876457",
+      "name": "Treasure",
+      "symbol": "MAGIC"
+    },
+    "moonriver": {
+      "first_seen": "2025-08-28T12:11:55.876464",
+      "name": "Moonriver",
+      "symbol": "MOVR"
+    },
+    "sosovalue": {
+      "first_seen": "2025-08-28T12:11:55.876467",
+      "name": "SoSoValue",
+      "symbol": "SOSO"
+    },
+    "gains-network": {
+      "first_seen": "2025-08-28T12:11:55.876469",
+      "name": "Gains Network",
+      "symbol": "GNS"
+    },
+    "tokpie": {
+      "first_seen": "2025-08-28T12:11:55.876471",
+      "name": "TOKPIE",
+      "symbol": "TKP"
+    },
+    "researchcoin": {
+      "first_seen": "2025-08-28T12:11:55.876474",
+      "name": "ResearchCoin",
+      "symbol": "RSC"
+    },
+    "lagrange": {
+      "first_seen": "2025-08-28T12:11:55.876476",
+      "name": "Lagrange",
+      "symbol": "LA"
+    },
+    "joe": {
+      "first_seen": "2025-08-28T12:11:55.876478",
+      "name": "JOE",
+      "symbol": "JOE"
+    },
+    "cartesi": {
+      "first_seen": "2025-08-28T12:11:55.876480",
+      "name": "Cartesi",
+      "symbol": "CTSI"
+    },
+    "soon-2": {
+      "first_seen": "2025-08-28T12:11:55.876482",
+      "name": "SOON",
+      "symbol": "SOON"
+    },
+    "sai": {
+      "first_seen": "2025-08-28T12:11:55.876485",
+      "name": "Sai",
+      "symbol": "SAI"
+    },
+    "solv-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876487",
+      "name": "Solv Protocol",
+      "symbol": "SOLV"
+    },
+    "smooth-love-potion": {
+      "first_seen": "2025-08-28T12:11:55.876489",
+      "name": "Smooth Love Potion",
+      "symbol": "SLP"
+    },
+    "eth0": {
+      "first_seen": "2025-08-28T12:11:55.876491",
+      "name": "Usual ETH",
+      "symbol": "ETH0"
+    },
+    "daku-v2": {
+      "first_seen": "2025-08-28T12:11:55.876494",
+      "name": "Daku V2",
+      "symbol": "DAKU"
+    },
+    "xai-blockchain": {
+      "first_seen": "2025-08-28T12:11:55.876496",
+      "name": "Xai",
+      "symbol": "XAI"
+    },
+    "ssv-network": {
+      "first_seen": "2025-08-28T12:11:55.876501",
+      "name": "SSV Network",
+      "symbol": "SSV"
+    },
+    "radix": {
+      "first_seen": "2025-08-28T12:11:55.876504",
+      "name": "Radix",
+      "symbol": "XRD"
+    },
+    "bridged-usd-coin-starkgate": {
+      "first_seen": "2025-08-28T12:11:55.876506",
+      "name": "Bridged USD Coin (StarkGate)",
+      "symbol": "USDC"
+    },
+    "railgun": {
+      "first_seen": "2025-08-28T12:11:55.876509",
+      "name": "Railgun",
+      "symbol": "RAIL"
+    },
+    "zentry": {
+      "first_seen": "2025-08-28T12:11:55.876513",
+      "name": "Zentry",
+      "symbol": "ZENT"
+    },
+    "metal": {
+      "first_seen": "2025-08-28T12:11:55.876516",
+      "name": "Metal DAO",
+      "symbol": "MTL"
+    },
+    "alethea-artificial-liquid-intelligence-token": {
+      "first_seen": "2025-08-28T12:11:55.876518",
+      "name": "Artificial Liquid Intelligence",
+      "symbol": "ALI"
+    },
+    "blockv": {
+      "first_seen": "2025-08-28T12:11:55.876520",
+      "name": "BLOCKv",
+      "symbol": "VEE"
+    },
+    "sophon": {
+      "first_seen": "2025-08-28T12:11:55.876522",
+      "name": "Sophon",
+      "symbol": "SOPH"
+    },
+    "socean-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.876525",
+      "name": "Sanctum Infinity",
+      "symbol": "INF"
+    },
+    "solv-protocol-solvbtc-jupiter": {
+      "first_seen": "2025-08-28T12:11:55.876527",
+      "name": "Solv Protocol SolvBTC Jupiter",
+      "symbol": "SOLVBTC.JUP"
+    },
+    "andy-the-wisguy": {
+      "first_seen": "2025-08-28T12:11:55.876529",
+      "name": "ANDY ETH",
+      "symbol": "ANDY"
+    },
+    "zedxion": {
+      "first_seen": "2025-08-28T12:11:55.876531",
+      "name": "Zedxion",
+      "symbol": "ZEDXION"
+    },
+    "nobody-sausage": {
+      "first_seen": "2025-08-28T12:11:55.876534",
+      "name": "Nobody Sausage",
+      "symbol": "NOBODY"
+    },
+    "newton-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876536",
+      "name": "Newton Protocol",
+      "symbol": "NEWT"
+    },
+    "wrapped-nxm": {
+      "first_seen": "2025-08-28T12:11:55.876538",
+      "name": "Wrapped NXM",
+      "symbol": "WNXM"
+    },
+    "bifrost": {
+      "first_seen": "2025-08-28T12:11:55.876540",
+      "name": "Bifrost",
+      "symbol": "BFC"
+    },
+    "mindwavedao": {
+      "first_seen": "2025-08-28T12:11:55.876543",
+      "name": "MindWaveDAO",
+      "symbol": "NILA"
+    },
+    "lista": {
+      "first_seen": "2025-08-28T12:11:55.876545",
+      "name": "Lista DAO",
+      "symbol": "LISTA"
+    },
+    "gamebuild": {
+      "first_seen": "2025-08-28T12:11:55.876549",
+      "name": "GameBuild",
+      "symbol": "GAME"
+    },
+    "supra": {
+      "first_seen": "2025-08-28T12:11:55.876552",
+      "name": "Supra",
+      "symbol": "SUPRA"
+    },
+    "ponke": {
+      "first_seen": "2025-08-28T12:11:55.876554",
+      "name": "PONKE",
+      "symbol": "PONKE"
+    },
+    "zircuit": {
+      "first_seen": "2025-08-28T12:11:55.876557",
+      "name": "Zircuit",
+      "symbol": "ZRC"
+    },
+    "ben-pasternak": {
+      "first_seen": "2025-08-28T12:11:55.876559",
+      "name": "Launch Coin on Believe",
+      "symbol": "LAUNCHCOIN"
+    },
+    "oraichain-token": {
+      "first_seen": "2025-08-28T12:11:55.876561",
+      "name": "Oraichain",
+      "symbol": "ORAI"
+    },
+    "btu-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876563",
+      "name": "BTU Protocol",
+      "symbol": "BTU"
+    },
+    "medxt": {
+      "first_seen": "2025-08-28T12:11:55.876565",
+      "name": "MEDXT",
+      "symbol": "MEDXT"
+    },
+    "initia": {
+      "first_seen": "2025-08-28T12:11:55.876568",
+      "name": "Initia",
+      "symbol": "INIT"
+    },
+    "universal-eth": {
+      "first_seen": "2025-08-28T12:11:55.876570",
+      "name": "Universal ETH",
+      "symbol": "UNIETH"
+    },
+    "adventure-gold": {
+      "first_seen": "2025-08-28T12:11:55.876572",
+      "name": "Adventure Gold",
+      "symbol": "AGLD"
+    },
+    "ocean-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876575",
+      "name": "Ocean Protocol",
+      "symbol": "OCEAN"
+    },
+    "chain-key-bitcoin": {
+      "first_seen": "2025-08-28T12:11:55.876577",
+      "name": "Chain-key Bitcoin",
+      "symbol": "CKBTC"
+    },
+    "nillion": {
+      "first_seen": "2025-08-28T12:11:55.876579",
+      "name": "Nillion",
+      "symbol": "NIL"
+    },
+    "rif-token": {
+      "first_seen": "2025-08-28T12:11:55.876581",
+      "name": "Rootstock Infrastructure Framework",
+      "symbol": "RIF"
+    },
+    "iagon": {
+      "first_seen": "2025-08-28T12:11:55.876583",
+      "name": "Iagon",
+      "symbol": "IAG"
+    },
+    "liqwid-finance": {
+      "first_seen": "2025-08-28T12:11:55.876586",
+      "name": "Liqwid Finance",
+      "symbol": "LQ"
+    },
+    "secret": {
+      "first_seen": "2025-08-28T12:11:55.876588",
+      "name": "Secret",
+      "symbol": "SCRT"
+    },
+    "vanar-chain": {
+      "first_seen": "2025-08-28T12:11:55.876590",
+      "name": "Vanar Chain",
+      "symbol": "VANRY"
+    },
+    "cronos-bridged-wbtc-cronos": {
+      "first_seen": "2025-08-28T12:11:55.876592",
+      "name": "Cronos Bridged WBTC (Cronos)",
+      "symbol": "WBTC"
+    },
+    "dogelon-mars": {
+      "first_seen": "2025-08-28T12:11:55.876594",
+      "name": "Dogelon Mars",
+      "symbol": "ELON"
+    },
+    "connect-token-wct": {
+      "first_seen": "2025-08-28T12:11:55.876599",
+      "name": "WalletConnect Token",
+      "symbol": "WCT"
+    },
+    "keyboard-cat-base": {
+      "first_seen": "2025-08-28T12:11:55.876601",
+      "name": "Keyboard Cat (Base)",
+      "symbol": "KEYCAT"
+    },
+    "noble-dollar-usdn": {
+      "first_seen": "2025-08-28T12:11:55.876604",
+      "name": "Noble Dollar (USDN)",
+      "symbol": "USDN"
+    },
+    "token-pocket": {
+      "first_seen": "2025-08-28T12:11:55.876606",
+      "name": "TokenPocket Token",
+      "symbol": "TPT"
+    },
+    "vaultbridge-bridged-wbtc-katana": {
+      "first_seen": "2025-08-28T12:11:55.876608",
+      "name": "VaultBridge Bridged WBTC (Katana)",
+      "symbol": "VBWBTC"
+    },
+    "qanplatform": {
+      "first_seen": "2025-08-28T12:11:55.876610",
+      "name": "QANplatform",
+      "symbol": "QANX"
+    },
+    "bouncebit": {
+      "first_seen": "2025-08-28T12:11:55.876612",
+      "name": "BounceBit",
+      "symbol": "BB"
+    },
+    "incrypt": {
+      "first_seen": "2025-08-28T12:11:55.876615",
+      "name": "Incrypt",
+      "symbol": "INC"
+    },
+    "og-fan-token": {
+      "first_seen": "2025-08-28T12:11:55.876617",
+      "name": "OG Fan Token",
+      "symbol": "OG"
+    },
+    "bridged-tether-opbnb": {
+      "first_seen": "2025-08-28T12:11:55.876619",
+      "name": "Bridged Tether (opBNB)",
+      "symbol": "USDT"
+    },
+    "bankercoin-2": {
+      "first_seen": "2025-08-28T12:11:55.876621",
+      "name": "BankrCoin",
+      "symbol": "BNKR"
+    },
+    "magic-internet-money": {
+      "first_seen": "2025-08-28T12:11:55.876623",
+      "name": "Magic Internet Money (Ethereum)",
+      "symbol": "MIM"
+    },
+    "ekubo-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876626",
+      "name": "Ekubo Protocol",
+      "symbol": "EKUBO"
+    },
+    "openserv": {
+      "first_seen": "2025-08-28T12:11:55.876628",
+      "name": "OpenServ",
+      "symbol": "SERV"
+    },
+    "savings-crvusd": {
+      "first_seen": "2025-08-28T12:11:55.876632",
+      "name": "Savings crvUSD",
+      "symbol": "SCRVUSD"
+    },
+    "ridges-ai": {
+      "first_seen": "2025-08-28T12:11:55.876634",
+      "name": "Ridges AI",
+      "symbol": "SN62"
+    },
+    "cobak-token": {
+      "first_seen": "2025-08-28T12:11:55.876637",
+      "name": "Cobak",
+      "symbol": "CBK"
+    },
+    "hydradx": {
+      "first_seen": "2025-08-28T12:11:55.876639",
+      "name": "Hydration",
+      "symbol": "HDX"
+    },
+    "medibloc": {
+      "first_seen": "2025-08-28T12:11:55.876641",
+      "name": "Medibloc",
+      "symbol": "MED"
+    },
+    "goldfinch": {
+      "first_seen": "2025-08-28T12:11:55.876643",
+      "name": "Goldfinch",
+      "symbol": "GFI"
+    },
+    "wink": {
+      "first_seen": "2025-08-28T12:11:55.876646",
+      "name": "WINkLink",
+      "symbol": "WIN"
+    },
+    "milady-cult-coin": {
+      "first_seen": "2025-08-28T12:11:55.876648",
+      "name": "Milady Cult Coin",
+      "symbol": "CULT"
+    },
+    "oasys": {
+      "first_seen": "2025-08-28T12:11:55.876650",
+      "name": "Oasys",
+      "symbol": "OAS"
+    },
+    "bugscoin": {
+      "first_seen": "2025-08-28T12:11:55.876652",
+      "name": "BugsCoin",
+      "symbol": "BGSC"
+    },
+    "deso": {
+      "first_seen": "2025-08-28T12:11:55.876655",
+      "name": "Decentralized Social",
+      "symbol": "DESO"
+    },
+    "hyperlane": {
+      "first_seen": "2025-08-28T12:11:55.876657",
+      "name": "Hyperlane",
+      "symbol": "HYPER"
+    },
+    "humanity": {
+      "first_seen": "2025-08-28T12:11:55.876659",
+      "name": "Humanity",
+      "symbol": "H"
+    },
+    "quantum-resistant-ledger": {
+      "first_seen": "2025-08-28T12:11:55.876661",
+      "name": "Quantum Resistant Ledger",
+      "symbol": "QRL"
+    },
+    "wrapped-xrp": {
+      "first_seen": "2025-08-28T12:11:55.876666",
+      "name": "Wrapped XRP",
+      "symbol": "WXRP"
+    },
+    "codatta": {
+      "first_seen": "2025-08-28T12:11:55.876668",
+      "name": "Codatta",
+      "symbol": "XNY"
+    },
+    "lift-dollar": {
+      "first_seen": "2025-08-28T12:11:55.876670",
+      "name": "Lift Dollar",
+      "symbol": "USDL"
+    },
+    "theo-short-duration-us-treasury-fund": {
+      "first_seen": "2025-08-28T12:11:55.876673",
+      "name": "Theo Short Duration US Treasury Fund",
+      "symbol": "THBILL"
+    },
+    "benqi": {
+      "first_seen": "2025-08-28T12:11:55.876675",
+      "name": "BENQI",
+      "symbol": "QI"
+    },
+    "simon-s-cat": {
+      "first_seen": "2025-08-28T12:11:55.876677",
+      "name": "Simon's Cat",
+      "symbol": "CAT"
+    },
+    "solidus-aitech": {
+      "first_seen": "2025-08-28T12:11:55.876679",
+      "name": "Solidus Ai Tech",
+      "symbol": "AITECH"
+    },
+    "velodrome-finance": {
+      "first_seen": "2025-08-28T12:11:55.876681",
+      "name": "Velodrome Finance",
+      "symbol": "VELO"
+    },
+    "binance-usd": {
+      "first_seen": "2025-08-28T12:11:55.876683",
+      "name": "BUSD",
+      "symbol": "BUSD"
+    },
+    "coca": {
+      "first_seen": "2025-08-28T12:11:55.876686",
+      "name": "COCA",
+      "symbol": "COCA"
+    },
+    "escoin-token": {
+      "first_seen": "2025-08-28T12:11:55.876688",
+      "name": "Escoin",
+      "symbol": "ELG"
+    },
+    "uranus-4": {
+      "first_seen": "2025-08-28T12:11:55.876690",
+      "name": "Uranus",
+      "symbol": "URANUS"
+    },
+    "zeus-network": {
+      "first_seen": "2025-08-28T12:11:55.876695",
+      "name": "Zeus Network",
+      "symbol": "ZEUS"
+    },
+    "pepeontron": {
+      "first_seen": "2025-08-28T12:11:55.876697",
+      "name": "PePeonTron",
+      "symbol": "PEPEONTRON"
+    },
+    "cronos-zkevm-cro": {
+      "first_seen": "2025-08-28T12:11:55.876699",
+      "name": "Cronos zkEVM CRO",
+      "symbol": "ZKCRO"
+    },
+    "hairdao": {
+      "first_seen": "2025-08-28T12:11:55.876701",
+      "name": "HairDAO",
+      "symbol": "HAIR"
+    },
+    "level-usd": {
+      "first_seen": "2025-08-28T12:11:55.876704",
+      "name": "Level USD",
+      "symbol": "LVLUSD"
+    },
+    "mnee-usd-stablecoin": {
+      "first_seen": "2025-08-28T12:11:55.876706",
+      "name": "MNEE USD Stablecoin",
+      "symbol": "MNEE"
+    },
+    "mamo": {
+      "first_seen": "2025-08-28T12:11:55.876708",
+      "name": "Mamo",
+      "symbol": "MAMO"
+    },
+    "towns": {
+      "first_seen": "2025-08-28T12:11:55.876710",
+      "name": "Towns",
+      "symbol": "TOWNS"
+    },
+    "seth": {
+      "first_seen": "2025-08-28T12:11:55.876712",
+      "name": "sETH",
+      "symbol": "SETH"
+    },
+    "certik": {
+      "first_seen": "2025-08-28T12:11:55.876714",
+      "name": "Shentu",
+      "symbol": "CTK"
+    },
+    "hunt-token": {
+      "first_seen": "2025-08-28T12:11:55.876717",
+      "name": "Hunt",
+      "symbol": "HUNT"
+    },
+    "ski-mask-dog": {
+      "first_seen": "2025-08-28T12:11:55.876719",
+      "name": "Ski Mask Dog",
+      "symbol": "SKI"
+    },
+    "wmatic": {
+      "first_seen": "2025-08-28T12:11:55.876721",
+      "name": "Wrapped POL",
+      "symbol": "WPOL"
+    },
+    "bas": {
+      "first_seen": "2025-08-28T12:11:55.876723",
+      "name": "BNB Attestation Service",
+      "symbol": "BAS"
+    },
+    "gemini-dollar": {
+      "first_seen": "2025-08-28T12:11:55.876725",
+      "name": "Gemini Dollar",
+      "symbol": "GUSD"
+    },
+    "aergo": {
+      "first_seen": "2025-08-28T12:11:55.876728",
+      "name": "Aergo",
+      "symbol": "AERGO"
+    },
+    "aurora-near": {
+      "first_seen": "2025-08-28T12:11:55.876730",
+      "name": "Aurora",
+      "symbol": "AURORA"
+    },
+    "hippo-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876732",
+      "name": "Hippo Protocol",
+      "symbol": "HP"
+    },
+    "coin98": {
+      "first_seen": "2025-08-28T12:11:55.876734",
+      "name": "Coin98",
+      "symbol": "C98"
+    },
+    "global-commercial-business": {
+      "first_seen": "2025-08-28T12:11:55.876737",
+      "name": "Global Commercial Business",
+      "symbol": "GCB"
+    },
+    "evil-larry": {
+      "first_seen": "2025-08-28T12:11:55.876739",
+      "name": "Evil Larry",
+      "symbol": "LARRY"
+    },
+    "airtor-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876741",
+      "name": "ANyONe Protocol",
+      "symbol": "ANYONE"
+    },
+    "societe-generale-forge-eurcv": {
+      "first_seen": "2025-08-28T12:11:55.876743",
+      "name": "EUR CoinVertible",
+      "symbol": "EURCV"
+    },
+    "quark-chain": {
+      "first_seen": "2025-08-28T12:11:55.876745",
+      "name": "QuarkChain",
+      "symbol": "QKC"
+    },
+    "tutorial": {
+      "first_seen": "2025-08-28T12:11:55.876748",
+      "name": "Tutorial",
+      "symbol": "TUT"
+    },
+    "byusd": {
+      "first_seen": "2025-08-28T12:11:55.876750",
+      "name": "BYUSD",
+      "symbol": "BYUSD"
+    },
+    "okzoo": {
+      "first_seen": "2025-08-28T12:11:55.876752",
+      "name": "OKZOO",
+      "symbol": "AIOT"
+    },
+    "looped-hype": {
+      "first_seen": "2025-08-28T12:11:55.876754",
+      "name": "Looped Hype",
+      "symbol": "LHYPE"
+    },
+    "ao-computer": {
+      "first_seen": "2025-08-28T12:11:55.876756",
+      "name": "ao Computer",
+      "symbol": "AO"
+    },
+    "elixir-staked-deusd": {
+      "first_seen": "2025-08-28T12:11:55.876759",
+      "name": "Elixir Staked deUSD",
+      "symbol": "SDEUSD"
+    },
+    "concordium": {
+      "first_seen": "2025-08-28T12:11:55.876761",
+      "name": "Concordium",
+      "symbol": "CCD"
+    },
+    "unipoly": {
+      "first_seen": "2025-08-28T12:11:55.876763",
+      "name": "Unipoly",
+      "symbol": "UNP"
+    },
+    "tac-bridged-weth-tac": {
+      "first_seen": "2025-08-28T12:11:55.876765",
+      "name": "TAC Bridged WETH (TAC)",
+      "symbol": "WETH"
+    },
+    "hashflow": {
+      "first_seen": "2025-08-28T12:11:55.876767",
+      "name": "Hashflow",
+      "symbol": "HFT"
+    },
+    "usualx": {
+      "first_seen": "2025-08-28T12:11:55.876770",
+      "name": "USUALx",
+      "symbol": "USUALX"
+    },
+    "binance-peg-avalanche": {
+      "first_seen": "2025-08-28T12:11:55.876772",
+      "name": "Binance-Peg Avalanche",
+      "symbol": "AVAX"
+    },
+    "pinlink": {
+      "first_seen": "2025-08-28T12:11:55.876774",
+      "name": "PinLink",
+      "symbol": "PIN"
+    },
+    "lucky-moon": {
+      "first_seen": "2025-08-28T12:11:55.876776",
+      "name": "Lucky Moon",
+      "symbol": "LUCKYMOON"
+    },
+    "znd-token": {
+      "first_seen": "2025-08-28T12:11:55.876778",
+      "name": "ZND Token",
+      "symbol": "ZND"
+    },
+    "gods-unchained": {
+      "first_seen": "2025-08-28T12:11:55.876781",
+      "name": "Gods Unchained",
+      "symbol": "GODS"
+    },
+    "sygnum-fiusd-liquidity-fund": {
+      "first_seen": "2025-08-28T12:11:55.876787",
+      "name": "Sygnum FIUSD Liquidity Fund",
+      "symbol": "FIUSD"
+    },
+    "peapods-finance": {
+      "first_seen": "2025-08-28T12:11:55.876789",
+      "name": "Peapods Finance",
+      "symbol": "PEAS"
+    },
+    "vitadao": {
+      "first_seen": "2025-08-28T12:11:55.876791",
+      "name": "VitaDAO",
+      "symbol": "VITA"
+    },
+    "impossible-cloud-network-token": {
+      "first_seen": "2025-08-28T12:11:55.876794",
+      "name": "Impossible Cloud Network Token",
+      "symbol": "ICNT"
+    },
+    "stader": {
+      "first_seen": "2025-08-28T12:11:55.876796",
+      "name": "Stader",
+      "symbol": "SD"
+    },
+    "usd": {
+      "first_seen": "2025-08-28T12:11:55.876798",
+      "name": "Overnight.fi USD+",
+      "symbol": "USD+"
+    },
+    "magic-internet-money-runes": {
+      "first_seen": "2025-08-28T12:11:55.876800",
+      "name": "MAGIC\u2022INTERNET\u2022MONEY (Bitcoin)",
+      "symbol": "MIM"
+    },
+    "bonk-staked-sol": {
+      "first_seen": "2025-08-28T12:11:55.876802",
+      "name": "Bonk Staked SOL",
+      "symbol": "BONKSOL"
+    },
+    "astherus-usdf": {
+      "first_seen": "2025-08-28T12:11:55.876805",
+      "name": "Aster USDF",
+      "symbol": "USDF"
+    },
+    "ket": {
+      "first_seen": "2025-08-28T12:11:55.876807",
+      "name": "Ket",
+      "symbol": "KET"
+    },
+    "mountain-protocol-usdm": {
+      "first_seen": "2025-08-28T12:11:55.876809",
+      "name": "Mountain Protocol USD",
+      "symbol": "USDM"
+    },
+    "orderly-network": {
+      "first_seen": "2025-08-28T12:11:55.876814",
+      "name": "Orderly",
+      "symbol": "ORDER"
+    },
+    "superrare": {
+      "first_seen": "2025-08-28T12:11:55.876816",
+      "name": "SuperRare",
+      "symbol": "RARE"
+    },
+    "avalanche-old-bridged-wbtc-avalanche": {
+      "first_seen": "2025-08-28T12:11:55.876818",
+      "name": "Avalanche Bridged WBTC (Avalanche)",
+      "symbol": "WBTC.E"
+    },
+    "access-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876821",
+      "name": "Access Protocol",
+      "symbol": "ACS"
+    },
+    "l2-standard-bridged-weth-blast": {
+      "first_seen": "2025-08-28T12:11:55.876823",
+      "name": "L2 Standard Bridged WETH (Blast)",
+      "symbol": "WETH"
+    },
+    "hamster-kombat": {
+      "first_seen": "2025-08-28T12:11:55.876825",
+      "name": "Hamster Kombat",
+      "symbol": "HMSTR"
+    },
+    "qkacoin": {
+      "first_seen": "2025-08-28T12:11:55.876827",
+      "name": "Qkacoin",
+      "symbol": "QKA"
+    },
+    "boba-network": {
+      "first_seen": "2025-08-28T12:11:55.876829",
+      "name": "Boba Network",
+      "symbol": "BOBA"
+    },
+    "seraph": {
+      "first_seen": "2025-08-28T12:11:55.876832",
+      "name": "Seraph",
+      "symbol": "SERAPH"
+    },
+    "wayfinder": {
+      "first_seen": "2025-08-28T12:11:55.876834",
+      "name": "Wayfinder",
+      "symbol": "PROMPT"
+    },
+    "geodnet": {
+      "first_seen": "2025-08-28T12:11:55.876836",
+      "name": "Geodnet",
+      "symbol": "GEOD"
+    },
+    "dodo": {
+      "first_seen": "2025-08-28T12:11:55.876838",
+      "name": "DODO",
+      "symbol": "DODO"
+    },
+    "skyai": {
+      "first_seen": "2025-08-28T12:11:55.876840",
+      "name": "SkyAI",
+      "symbol": "SKYAI"
+    },
+    "nusd": {
+      "first_seen": "2025-08-28T12:11:55.876843",
+      "name": "sUSD",
+      "symbol": "SUSD"
+    },
+    "tokenbot-2": {
+      "first_seen": "2025-08-28T12:11:55.876845",
+      "name": "tokenbot",
+      "symbol": "CLANKER"
+    },
+    "staked-stream-usd": {
+      "first_seen": "2025-08-28T12:11:55.876850",
+      "name": "Staked Stream USD",
+      "symbol": "XUSD"
+    },
+    "bridged-usd-coin-optimism": {
+      "first_seen": "2025-08-28T12:11:55.876852",
+      "name": "Standard Bridged USDC.e (Optimism)",
+      "symbol": "USDC.E"
+    },
+    "general-impressions": {
+      "first_seen": "2025-08-28T12:11:55.876855",
+      "name": "General Impressions",
+      "symbol": "GEN"
+    },
+    "hyperbeat-ultra-hype": {
+      "first_seen": "2025-08-28T12:11:55.876857",
+      "name": "Hyperbeat Ultra HYPE",
+      "symbol": "HBHYPE"
+    },
+    "celer-network": {
+      "first_seen": "2025-08-28T12:11:55.876859",
+      "name": "Celer Network",
+      "symbol": "CELR"
+    },
+    "safecoin": {
+      "first_seen": "2025-08-28T12:11:55.876861",
+      "name": "SAFEcoin",
+      "symbol": "SAFE"
+    },
+    "ankreth": {
+      "first_seen": "2025-08-28T12:11:55.876864",
+      "name": "Ankr Staked ETH",
+      "symbol": "ANKRETH"
+    },
+    "maverick-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876866",
+      "name": "Maverick Protocol",
+      "symbol": "MAV"
+    },
+    "advertise-coin": {
+      "first_seen": "2025-08-28T12:11:55.876868",
+      "name": "Advertise Coin",
+      "symbol": "ADCO"
+    },
+    "yield-optimizer-eth": {
+      "first_seen": "2025-08-28T12:11:55.876870",
+      "name": "Yield Optimizer ETH",
+      "symbol": "YOETH"
+    },
+    "matrixdock-gold": {
+      "first_seen": "2025-08-28T12:11:55.876872",
+      "name": "Matrixdock Gold",
+      "symbol": "XAUM"
+    },
+    "humans-ai": {
+      "first_seen": "2025-08-28T12:11:55.876875",
+      "name": "Humans.ai",
+      "symbol": "HEART"
+    },
+    "wolf-2": {
+      "first_seen": "2025-08-28T12:11:55.876877",
+      "name": "WOLF",
+      "symbol": "WOLF"
+    },
+    "usd-coin-avalanche-bridged-usdc-e": {
+      "first_seen": "2025-08-28T12:11:55.876879",
+      "name": "Avalanche Bridged USDC (Avalanche)",
+      "symbol": "USDC.E"
+    },
+    "autonolas": {
+      "first_seen": "2025-08-28T12:11:55.876885",
+      "name": "Autonolas",
+      "symbol": "OLAS"
+    },
+    "origin-protocol": {
+      "first_seen": "2025-08-28T12:11:55.876887",
+      "name": "Origin Token",
+      "symbol": "OGN"
+    },
+    "avail": {
+      "first_seen": "2025-08-28T12:11:55.876889",
+      "name": "Avail",
+      "symbol": "AVAIL"
+    },
+    "tornado-cash": {
+      "first_seen": "2025-08-28T12:11:55.876893",
+      "name": "Tornado Cash",
+      "symbol": "TORN"
+    },
+    "chill-guy": {
+      "first_seen": "2025-08-28T12:11:55.876895",
+      "name": "Just a chill guy",
+      "symbol": "CHILLGUY"
+    },
+    "red-pulse": {
+      "first_seen": "2025-08-28T12:11:55.876898",
+      "name": "Phoenix Global [OLD]",
+      "symbol": "PHB"
+    },
+    "aave-usdc-sonic": {
+      "first_seen": "2025-08-28T12:11:55.876900",
+      "name": "Aave USDC (Sonic)",
+      "symbol": "ASONUSDC"
+    },
+    "kernel-2": {
+      "first_seen": "2025-08-28T12:11:55.876902",
+      "name": "KernelDAO",
+      "symbol": "KERNEL"
+    },
+    "resolv": {
+      "first_seen": "2025-08-28T12:11:55.876904",
+      "name": "Resolv",
+      "symbol": "RESOLV"
+    },
+    "deapcoin": {
+      "first_seen": "2025-08-28T12:11:55.876906",
+      "name": "DEAPCOIN",
+      "symbol": "DEP"
+    },
+    "egl1": {
+      "first_seen": "2025-08-28T12:11:55.876909",
+      "name": "EGL1",
+      "symbol": "EGL1"
+    },
+    "trufin-staked-apt": {
+      "first_seen": "2025-08-28T12:11:55.876911",
+      "name": "TruFin Staked APT",
+      "symbol": "TRUAPT"
+    },
+    "trufin-staked-matic": {
+      "first_seen": "2025-08-28T12:11:55.876913",
+      "name": "TruFin Staked MATIC",
+      "symbol": "TRUMATIC"
+    },
+    "neon": {
+      "first_seen": "2025-08-28T12:11:55.876915",
+      "name": "Neon",
+      "symbol": "NEON"
+    },
+    "minswap": {
+      "first_seen": "2025-08-28T12:11:55.876918",
+      "name": "Minswap",
+      "symbol": "MIN"
+    },
+    "particle-network": {
+      "first_seen": "2025-08-28T12:11:55.876920",
+      "name": "Particle Network",
+      "symbol": "PARTI"
+    },
+    "unstable-coin": {
+      "first_seen": "2025-08-28T12:11:55.876922",
+      "name": "Unstable Coin",
+      "symbol": "USDUC"
+    },
+    "propy": {
+      "first_seen": "2025-08-28T12:11:55.876924",
+      "name": "Propy",
+      "symbol": "PRO"
+    },
+    "saucerswap": {
+      "first_seen": "2025-08-28T12:11:55.876926",
+      "name": "SaucerSwap",
+      "symbol": "SAUCE"
+    },
+    "huma-finance": {
+      "first_seen": "2025-08-28T12:11:55.876929",
+      "name": "Huma Finance",
+      "symbol": "HUMA"
+    },
+    "nosana": {
+      "first_seen": "2025-08-28T12:11:55.876931",
+      "name": "Nosana",
+      "symbol": "NOS"
+    },
+    "keep-network": {
+      "first_seen": "2025-08-28T12:11:55.876933",
+      "name": "Keep Network",
+      "symbol": "KEEP"
+    },
+    "metronome-synth-eth": {
+      "first_seen": "2025-08-28T12:11:55.876935",
+      "name": "Metronome Synth ETH",
+      "symbol": "MSETH"
+    },
+    "thena": {
+      "first_seen": "2025-08-28T12:11:55.876938",
+      "name": "Thena",
+      "symbol": "THE"
+    },
+    "liquity-bold-2": {
+      "first_seen": "2025-08-28T12:11:55.876940",
+      "name": "Liquity BOLD",
+      "symbol": "BOLD"
+    },
+    "yneth-max": {
+      "first_seen": "2025-08-28T12:11:55.876942",
+      "name": "ynETH MAX",
+      "symbol": "YNETHX"
+    },
+    "bone-shibaswap": {
+      "first_seen": "2025-08-28T12:11:55.876944",
+      "name": "Bone ShibaSwap",
+      "symbol": "BONE"
+    },
+    "uquid-coin": {
+      "first_seen": "2025-08-28T12:11:55.876947",
+      "name": "Uquid Coin",
+      "symbol": "UQC"
+    },
+    "truefi": {
+      "first_seen": "2025-08-28T12:11:55.876949",
+      "name": "TrueFi",
+      "symbol": "TRU"
+    },
+    "bit2me": {
+      "first_seen": "2025-08-28T12:11:55.876951",
+      "name": "Bit2Me",
+      "symbol": "B2M"
+    },
+    "slerf": {
+      "first_seen": "2025-08-28T12:11:55.876953",
+      "name": "Slerf",
+      "symbol": "SLERF"
+    },
+    "forta": {
+      "first_seen": "2025-08-28T12:11:55.876956",
+      "name": "Forta",
+      "symbol": "FORT"
+    },
+    "bedrock-btc": {
+      "first_seen": "2025-08-28T12:11:55.876958",
+      "name": "Bedrock BTC",
+      "symbol": "BRBTC"
+    },
+    "infrafred-bgt": {
+      "first_seen": "2025-08-28T12:11:55.876960",
+      "name": "Infrared BGT",
+      "symbol": "IBGT"
+    },
+    "layerzero-bridged-weeth-swellchain": {
+      "first_seen": "2025-08-28T12:11:55.876962",
+      "name": "Layerzero Bridged weETH (Swellchain)",
+      "symbol": "WEETH"
+    },
+    "moviebloc": {
+      "first_seen": "2025-08-28T12:11:55.876969",
+      "name": "MovieBloc",
+      "symbol": "MBL"
+    },
+    "big-dog-fink": {
+      "first_seen": "2025-08-28T12:11:55.876971",
+      "name": "Big Dog Fink",
+      "symbol": "BINK"
+    },
+    "bobo-coin": {
+      "first_seen": "2025-08-28T12:11:55.876974",
+      "name": "Bobo Coin",
+      "symbol": "BOBO"
+    },
+    "fwog": {
+      "first_seen": "2025-08-28T12:11:55.876976",
+      "name": "Fwog",
+      "symbol": "FWOG"
+    },
+    "austin-capitals": {
+      "first_seen": "2025-08-28T12:11:55.876978",
+      "name": "Austin Capitals",
+      "symbol": "AUX"
+    },
+    "altura": {
+      "first_seen": "2025-08-28T12:11:55.876983",
+      "name": "Altura",
+      "symbol": "ALU"
+    },
+    "saasgo": {
+      "first_seen": "2025-08-28T12:11:55.876985",
+      "name": "SaaSGo",
+      "symbol": "SAAS"
+    },
+    "landwolf-0x67": {
+      "first_seen": "2025-08-28T12:11:55.876988",
+      "name": "LandWolf",
+      "symbol": "WOLF"
+    },
+    "mezo-wrapped-btc": {
+      "first_seen": "2025-08-28T12:11:55.876990",
+      "name": "Mezo Wrapped BTC",
+      "symbol": "BTC"
+    },
+    "dextools": {
+      "first_seen": "2025-08-28T12:11:55.876992",
+      "name": "DexTools",
+      "symbol": "DEXT"
+    },
+    "xtcom-token": {
+      "first_seen": "2025-08-28T12:11:55.876994",
+      "name": "XT.com",
+      "symbol": "XT"
+    },
+    "darkstar": {
+      "first_seen": "2025-08-28T12:11:55.876996",
+      "name": "DarkStar",
+      "symbol": "DARKSTAR"
+    },
+    "redbelly-network-token": {
+      "first_seen": "2025-08-28T12:11:55.876999",
+      "name": "Redbelly Network",
+      "symbol": "RBNT"
+    },
+    "maxi-payfi-strategy-token": {
+      "first_seen": "2025-08-28T12:11:55.877001",
+      "name": "Maxi PayFi Strategy Token",
+      "symbol": "MPST"
+    },
+    "binance-peg-dai": {
+      "first_seen": "2025-08-28T12:11:55.877003",
+      "name": "Binance-Peg DAI",
+      "symbol": "DAI"
+    },
+    "smardex": {
+      "first_seen": "2025-08-28T12:11:55.877005",
+      "name": "SMARDEX",
+      "symbol": "SDEX"
+    },
+    "moonwell-flagship-usdc-morpho-vault": {
+      "first_seen": "2025-08-28T12:11:55.877007",
+      "name": "Moonwell Flagship USDC (Morpho Vault)",
+      "symbol": "MWUSDC"
+    },
+    "nym": {
+      "first_seen": "2025-08-28T12:11:55.877010",
+      "name": "Nym",
+      "symbol": "NYM"
+    },
+    "kyros-restaked-sol": {
+      "first_seen": "2025-08-28T12:11:55.877012",
+      "name": "Kyros Restaked SOL",
+      "symbol": "KYSOL"
+    },
+    "stader-maticx": {
+      "first_seen": "2025-08-28T12:11:55.877014",
+      "name": "Stader MaticX",
+      "symbol": "MATICX"
+    },
+    "gearbox": {
+      "first_seen": "2025-08-28T12:11:55.877016",
+      "name": "Gearbox",
+      "symbol": "GEAR"
+    },
+    "metya": {
+      "first_seen": "2025-08-28T12:11:55.877019",
+      "name": "MetYa",
+      "symbol": "MET"
+    },
+    "donkey-2": {
+      "first_seen": "2025-08-28T12:11:55.877021",
+      "name": "Donkey",
+      "symbol": "DONKEY"
+    },
+    "tensor": {
+      "first_seen": "2025-08-28T12:11:55.877023",
+      "name": "Tensor",
+      "symbol": "TNSR"
+    },
+    "compound-usd-coin": {
+      "first_seen": "2025-08-28T12:11:55.877025",
+      "name": "cUSDC",
+      "symbol": "CUSDC"
+    },
+    "celium": {
+      "first_seen": "2025-08-28T12:11:55.877028",
+      "name": "Celium",
+      "symbol": "SN51"
+    },
+    "superwalk": {
+      "first_seen": "2025-08-28T12:11:55.877030",
+      "name": "SuperWalk GRND",
+      "symbol": "GRND"
+    },
+    "islamic-coin": {
+      "first_seen": "2025-08-28T12:11:55.877032",
+      "name": "Islamic Coin",
+      "symbol": "ISLM"
+    },
+    "sx-network-2": {
+      "first_seen": "2025-08-28T12:11:55.877034",
+      "name": "SX Network",
+      "symbol": "SX"
+    },
+    "a-hunters-dream": {
+      "first_seen": "2025-08-28T12:11:55.877037",
+      "name": "A Hunters Dream",
+      "symbol": "CAW"
+    },
+    "hashai": {
+      "first_seen": "2025-08-28T12:11:55.877039",
+      "name": "HashAI",
+      "symbol": "HASHAI"
+    },
+    "karrat": {
+      "first_seen": "2025-08-28T12:11:55.877041",
+      "name": "Karrat",
+      "symbol": "KARRAT"
+    },
+    "pirate-chain": {
+      "first_seen": "2025-08-28T12:11:55.877043",
+      "name": "Pirate Chain",
+      "symbol": "ARRR"
+    },
+    "coinbase-wrapped-xrp": {
+      "first_seen": "2025-08-28T12:11:55.877045",
+      "name": "Coinbase Wrapped XRP",
+      "symbol": "CBXRP"
+    },
+    "web-3-dollar": {
+      "first_seen": "2025-08-28T12:11:55.877048",
+      "name": "Web 3 Dollar",
+      "symbol": "USD3"
+    },
+    "concierge-io": {
+      "first_seen": "2025-08-28T12:11:55.877050",
+      "name": "AVA (Travala)",
+      "symbol": "AVA"
+    },
+    "act-i-the-ai-prophecy": {
+      "first_seen": "2025-08-28T12:11:55.877052",
+      "name": "Act I The AI Prophecy",
+      "symbol": "ACT"
+    },
+    "endurance": {
+      "first_seen": "2025-08-28T12:11:55.877054",
+      "name": "Fusionist",
+      "symbol": "ACE"
+    },
+    "solv-protocol-solvbtc-core": {
+      "first_seen": "2025-08-28T12:11:55.877056",
+      "name": "Solv Protocol SolvBTC.CORE",
+      "symbol": "SOLVBTC.CORE"
+    },
+    "bitcoin-on-katana": {
+      "first_seen": "2025-08-28T12:11:55.877059",
+      "name": "Bitcoin on Katana",
+      "symbol": "BTCK"
+    },
+    "graphite-protocol": {
+      "first_seen": "2025-08-28T12:11:55.877061",
+      "name": "Graphite Protocol",
+      "symbol": "GP"
+    },
+    "sceptre-staked-flr": {
+      "first_seen": "2025-08-28T12:11:55.877063",
+      "name": "Sceptre Staked FLR",
+      "symbol": "SFLR"
+    },
+    "pepecoin-2": {
+      "first_seen": "2025-08-28T12:11:55.877065",
+      "name": "PepeCoin",
+      "symbol": "PEPECOIN"
+    },
+    "staked-frax-usd": {
+      "first_seen": "2025-08-28T12:11:55.877067",
+      "name": "Staked Frax USD",
+      "symbol": "SFRXUSD"
+    },
+    "sundog": {
+      "first_seen": "2025-08-28T12:11:55.877070",
+      "name": "Sundog",
+      "symbol": "SUNDOG"
+    },
+    "storx": {
+      "first_seen": "2025-08-28T12:11:55.877076",
+      "name": "StorX",
+      "symbol": "SRX"
+    },
+    "veraone": {
+      "first_seen": "2025-08-28T12:11:55.877078",
+      "name": "VeraOne",
+      "symbol": "VRO"
+    },
+    "blackhole": {
+      "first_seen": "2025-08-28T12:11:55.877080",
+      "name": "Blackhole",
+      "symbol": "BLACK"
+    },
+    "derive": {
+      "first_seen": "2025-08-28T12:11:55.877083",
+      "name": "Derive",
+      "symbol": "DRV"
+    },
+    "liquity-usd": {
+      "first_seen": "2025-08-28T12:11:55.877085",
+      "name": "Liquity USD",
+      "symbol": "LUSD"
+    },
+    "suilend": {
+      "first_seen": "2025-08-28T12:11:55.877087",
+      "name": "Suilend",
+      "symbol": "SEND"
+    },
+    "apex-token-2": {
+      "first_seen": "2025-08-28T12:11:55.877089",
+      "name": "APEX",
+      "symbol": "APEX"
+    },
+    "seda-2": {
+      "first_seen": "2025-08-28T12:11:55.877091",
+      "name": "SEDA",
+      "symbol": "SEDA"
+    },
+    "ancient8": {
+      "first_seen": "2025-08-28T12:11:55.877093",
+      "name": "Ancient8",
+      "symbol": "A8"
+    },
+    "gxchain": {
+      "first_seen": "2025-08-28T12:11:55.877096",
+      "name": "GXChain",
+      "symbol": "GXC"
+    },
+    "myshell": {
+      "first_seen": "2025-08-28T12:11:55.877098",
+      "name": "MyShell",
+      "symbol": "SHELL"
+    },
+    "bridged-tether-linea": {
+      "first_seen": "2025-08-28T12:11:55.877100",
+      "name": "Bridged Tether (Linea)",
+      "symbol": "USDT"
+    },
+    "tars-protocol": {
+      "first_seen": "2025-08-28T12:11:55.877102",
+      "name": "TARS AI",
+      "symbol": "TAI"
+    },
+    "the-spirit-of-gambling": {
+      "first_seen": "2025-08-28T12:11:55.877104",
+      "name": "The Spirit of Gambling",
+      "symbol": "TOKABU"
+    },
+    "unity-2": {
+      "first_seen": "2025-08-28T12:11:55.877107",
+      "name": "Unity",
+      "symbol": "UTY"
+    },
+    "proton-loan": {
+      "first_seen": "2025-08-28T12:11:55.877109",
+      "name": "Loan Protocol",
+      "symbol": "LOAN"
+    },
+    "devve": {
+      "first_seen": "2025-08-28T12:11:55.877111",
+      "name": "DevvE",
+      "symbol": "DEVVE"
+    },
+    "storj": {
+      "first_seen": "2025-08-28T12:11:55.877113",
+      "name": "Storj",
+      "symbol": "STORJ"
+    },
+    "helio-protocol-hay": {
+      "first_seen": "2025-08-28T12:11:55.877119",
+      "name": "Lista USD",
+      "symbol": "LISUSD"
+    },
+    "edu-coin": {
+      "first_seen": "2025-08-28T12:11:55.877124",
+      "name": "Open Campus",
+      "symbol": "EDU"
+    },
+    "paraswap": {
+      "first_seen": "2025-08-28T12:11:55.877127",
+      "name": "ParaSwap",
+      "symbol": "PSP"
+    },
+    "m2-global-wealth-limited-mmx": {
+      "first_seen": "2025-08-28T12:11:55.877129",
+      "name": "MMX",
+      "symbol": "MMX"
+    },
+    "tao-bot": {
+      "first_seen": "2025-08-28T12:11:55.877131",
+      "name": "tao.bot",
+      "symbol": "TAOBOT"
+    },
+    "ai-analysis-token": {
+      "first_seen": "2025-08-28T12:11:55.877133",
+      "name": "AI Analysis Token",
+      "symbol": "AIAT"
+    },
+    "renzo-restaked-sol": {
+      "first_seen": "2025-08-28T12:11:55.877135",
+      "name": "Renzo Restaked SOL",
+      "symbol": "EZSOL"
+    },
+    "mango-network": {
+      "first_seen": "2025-08-28T12:11:55.877138",
+      "name": "Mango Network",
+      "symbol": "MGO"
+    },
+    "zeus-netwok-zbtc": {
+      "first_seen": "2025-08-28T12:11:55.877140",
+      "name": "Zeus Network zBTC",
+      "symbol": "ZBTC"
+    },
+    "polyswarm": {
+      "first_seen": "2025-08-28T12:11:55.877142",
+      "name": "PolySwarm",
+      "symbol": "NCT"
+    },
+    "sanctum-2": {
+      "first_seen": "2025-08-28T12:11:55.877144",
+      "name": "Cloud",
+      "symbol": "CLOUD"
+    },
+    "level-staked-usd": {
+      "first_seen": "2025-08-28T12:11:55.877146",
+      "name": "Staked Level USD",
+      "symbol": "SLVLUSD"
+    },
+    "tokenfi": {
+      "first_seen": "2025-08-28T12:11:55.877149",
+      "name": "TokenFi",
+      "symbol": "TOKEN"
+    },
+    "puffer-finance": {
+      "first_seen": "2025-08-28T12:11:55.877151",
+      "name": "Puffer",
+      "symbol": "PUFFER"
+    },
+    "snowbank": {
+      "first_seen": "2025-08-28T12:11:55.877153",
+      "name": "Snowbank",
+      "symbol": "SB"
+    },
+    "yala": {
+      "first_seen": "2025-08-28T12:11:55.877159",
+      "name": "Yala",
+      "symbol": "YALA"
+    },
+    "lukso-token-2": {
+      "first_seen": "2025-08-28T12:11:55.877161",
+      "name": "LUKSO",
+      "symbol": "LYX"
+    },
+    "meta-2-2": {
+      "first_seen": "2025-08-28T12:11:55.877164",
+      "name": "MetaDAO",
+      "symbol": "META"
+    },
+    "honey-3": {
+      "first_seen": "2025-08-28T12:11:55.877166",
+      "name": "Honey",
+      "symbol": "HONEY"
+    },
+    "doginme": {
+      "first_seen": "2025-08-28T12:11:55.877168",
+      "name": "doginme",
+      "symbol": "DOGINME"
+    },
+    "pepecoin-network": {
+      "first_seen": "2025-08-28T12:11:55.877170",
+      "name": "Pepecoin",
+      "symbol": "PEP"
+    },
+    "phoenix-global": {
+      "first_seen": "2025-08-28T12:11:55.877173",
+      "name": "Phoenix",
+      "symbol": "PHB"
+    },
+    "crypto-trading-fund": {
+      "first_seen": "2025-08-28T12:11:55.877178",
+      "name": "Crypto Trading Fund",
+      "symbol": "CTF"
+    },
+    "acala": {
+      "first_seen": "2025-08-28T12:11:55.877180",
+      "name": "Acala",
+      "symbol": "ACA"
+    },
+    "hive_dollar": {
+      "first_seen": "2025-08-28T12:11:55.877182",
+      "name": "Hive Dollar",
+      "symbol": "HBD"
+    },
+    "radicle": {
+      "first_seen": "2025-08-28T12:11:55.877184",
+      "name": "Radworks",
+      "symbol": "RAD"
+    },
+    "rss3": {
+      "first_seen": "2025-08-28T12:11:55.877187",
+      "name": "RSS3",
+      "symbol": "RSS3"
+    },
+    "marblex": {
+      "first_seen": "2025-08-28T12:11:55.877189",
+      "name": "MARBLEX",
+      "symbol": "MBX"
+    },
+    "syscoin": {
+      "first_seen": "2025-08-28T12:11:55.877191",
+      "name": "Syscoin",
+      "symbol": "SYS"
+    },
+    "heyanon": {
+      "first_seen": "2025-08-28T12:11:55.877193",
+      "name": "Hey Anon",
+      "symbol": "ANON"
+    },
+    "messier": {
+      "first_seen": "2025-08-28T12:11:55.877195",
+      "name": "MESSIER",
+      "symbol": "M87"
+    },
+    "celo-dollar": {
+      "first_seen": "2025-08-28T12:11:55.877197",
+      "name": "Celo Dollar",
+      "symbol": "CUSD"
+    },
+    "etherex": {
+      "first_seen": "2025-08-28T12:11:55.877200",
+      "name": "Etherex",
+      "symbol": "REX"
+    },
+    "metadium": {
+      "first_seen": "2025-08-28T12:11:55.877202",
+      "name": "Metadium",
+      "symbol": "META"
+    },
+    "insure": {
+      "first_seen": "2025-08-28T12:11:55.877204",
+      "name": "inSure DeFi",
+      "symbol": "SURE"
+    },
+    "xion-2": {
+      "first_seen": "2025-08-28T12:11:55.877206",
+      "name": "XION",
+      "symbol": "XION"
+    },
+    "aquarius": {
+      "first_seen": "2025-08-28T12:11:55.877209",
+      "name": "Aquarius",
+      "symbol": "AQUA"
+    },
+    "targon": {
+      "first_seen": "2025-08-28T12:11:55.877211",
+      "name": "Targon",
+      "symbol": "SN4"
+    },
+    "coq-inu": {
+      "first_seen": "2025-08-28T12:11:55.877213",
+      "name": "Coq Inu",
+      "symbol": "COQ"
+    },
+    "nfprompt-token": {
+      "first_seen": "2025-08-28T12:11:55.877215",
+      "name": "NFPrompt",
+      "symbol": "NFP"
+    },
+    "avalon-2": {
+      "first_seen": "2025-08-28T12:11:55.877217",
+      "name": "Avalon",
+      "symbol": "AVL"
+    },
+    "usda-3": {
+      "first_seen": "2025-08-28T12:11:55.877220",
+      "name": "USDA",
+      "symbol": "USDA"
+    },
+    "fuel-network": {
+      "first_seen": "2025-08-28T12:11:55.877222",
+      "name": "Fuel Network",
+      "symbol": "FUEL"
+    },
+    "shardus": {
+      "first_seen": "2025-08-28T12:11:55.877224",
+      "name": "Shardus",
+      "symbol": "ULT"
+    }
+  },
+  "last_updated": "2025-08-31T08:07:07.919803+00:00",
+  "total_tracked": 1000,
+  "_metadata": {
+    "updated_at": "2025-08-31T17:07:07.920681",
+    "run_id": "test-rate-limit",
+    "connector": "coingecko"
+  }
+}
