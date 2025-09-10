@@ -5,7 +5,7 @@ os.environ['CONNECTOR_NAME'] = 'coingecko'
 os.environ['RUN_ID'] = 'test-rate-limit'
 os.environ['ENABLE_HTTP_CACHE'] = 'false'  # Disable cache to test real API calls
 os.environ['CACHE_REQUESTS'] = 'true'
-os.environ['STORAGE_BACKEND'] = 'local'
+os.environ['CATALOG_TYPE'] = 'local'
 os.environ['DATA_DIR'] = 'data'
 
 # Test with a smaller target count first
