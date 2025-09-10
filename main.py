@@ -12,8 +12,8 @@ def main():
     coins_data = process_coins()
     prices_data = process_prices(coins_data)
     
-    upload_data(coins_data, "coins")
-    upload_data(prices_data, "prices")
+    upload_data(coins_data, "coingecko_coins")
+    upload_data(prices_data, "coingecko_prices")
 
 if __name__ == "__main__":
     main()
