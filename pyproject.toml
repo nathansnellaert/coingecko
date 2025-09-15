@@ -12,6 +12,7 @@ dependencies = [
     "pyiceberg",
     "ratelimit",
     "requests",
+    "sqlalchemy>=2.0.43",
     "tenacity",
 ]
 
