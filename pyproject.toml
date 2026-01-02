@@ -4,12 +4,13 @@ version = "0.1.0"
 description = "CoinGecko cryptocurrency data connector"
 requires-python = ">=3.11"
 dependencies = [
+    "psutil>=5.9.0",
     "boto3",
     "duckdb",
     "httpx",
     "pandas",
     "pyarrow",
-    "pyiceberg",
+    "deltalake>=0.17.0",
     "ratelimit",
     "requests",
     "sqlalchemy>=2.0.43",
@@ -17,4 +18,5 @@ dependencies = [
 ]
 
 [tool.uv]
-dev-dependencies = []
+dev-dependencies = [
+    "psutil>=5.9.0",]
