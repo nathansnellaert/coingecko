@@ -3,7 +3,7 @@
 
 from datetime import datetime, timedelta, timezone
 from subsets_utils import save_raw_json, load_raw_json, load_state, save_state
-from coingecko_client import rate_limited_get
+from coingecko_client import rate_limited_get, CoinNotFoundError
 
 
 def run():
@@ -38,15 +38,18 @@ def run():
             "interval": "daily"
         }
 
-        response = rate_limited_get(url, params=params)
-        data = response.json()
+        try:
+            response = rate_limited_get(url, params=params)
+            data = response.json()
 
-        if data.get("prices"):
-            save_raw_json(data, f"prices/{coin_id}")
-            print(f"({len(data['prices'])} days)")
-        else:
-            save_raw_json({"prices": [], "market_caps": [], "total_volumes": []}, f"prices/{coin_id}")
-            print("(no data)")
+            if data.get("prices"):
+                save_raw_json(data, f"prices/{coin_id}")
+                print(f"({len(data['prices'])} days)")
+            else:
+                save_raw_json({"prices": [], "market_caps": [], "total_volumes": []}, f"prices/{coin_id}")
+                print("(no data)")
+        except CoinNotFoundError:
+            print("(not found - skipping)")
 
         completed.add(coin_id)
         save_state("prices", {
