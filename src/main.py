@@ -5,7 +5,6 @@ import os
 from subsets_utils import validate_environment
 from ingest import coins as ingest_coins
 from ingest import prices as ingest_prices
-from transforms import coins as transform_coins
 from transforms import prices as transform_prices
 
 
@@ -29,8 +28,6 @@ def main():
 
     if should_transform:
         print("\n=== Phase 2: Transform ===")
-        print("\n--- Transforming coins ---")
-        transform_coins.run()
         print("\n--- Transforming prices ---")
         transform_prices.run()
 
