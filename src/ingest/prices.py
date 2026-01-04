@@ -34,7 +34,7 @@ def run():
         url = f"https://api.coingecko.com/api/v3/coins/{coin_id}/market_chart"
         params = {
             "vs_currency": "usd",
-            "days": 365,
+            "days": "max",  # Fetch all available history (not just 365 days)
             "interval": "daily"
         }
 

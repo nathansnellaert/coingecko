@@ -33,11 +33,11 @@ def test(table: pa.Table) -> None:
     # Market cap should be positive where not null
     assert_positive(table, "market_cap_usd")
 
-    # Check reasonable date range (last ~2 years)
+    # Check reasonable date range (Bitcoin started in 2009, but CoinGecko has data from ~2013)
     dates = table.column("date").to_pylist()
     min_date = min(dates)
     max_date = max(dates)
-    assert min_date >= "2023-01-01", f"Data too old: {min_date}"
+    assert min_date >= "2010-01-01", f"Data impossibly old: {min_date}"
     assert max_date <= "2030-01-01", f"Future dates found: {max_date}"
 
     # Verify we have multiple coins

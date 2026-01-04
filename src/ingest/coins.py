@@ -6,6 +6,8 @@ from subsets_utils import save_raw_json, load_raw_json, load_state, save_state
 from coingecko_client import rate_limited_get
 import os
 
+# Top 1000 coins by market cap - covers 99%+ of total market cap.
+# CoinGecko lists 10,000+ coins but most are illiquid/defunct.
 TARGET_COUNT = 1000
 
 
