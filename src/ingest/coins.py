@@ -3,7 +3,7 @@
 
 from datetime import datetime, timezone
 from subsets_utils import save_raw_json, load_raw_json, load_state, save_state
-from utils import rate_limited_get
+from coingecko_client import rate_limited_get
 import os
 
 TARGET_COUNT = 1000
