@@ -1,4 +1,4 @@
-# Add parent directory (connector root) to path for utils
+"""CoinGecko API client with rate limiting and retry logic."""
 
 import httpx
 from subsets_utils import get

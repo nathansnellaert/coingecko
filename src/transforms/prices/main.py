@@ -43,18 +43,23 @@ def run():
         volumes = data.get("total_volumes", [])
         market_caps = data.get("market_caps", [])
 
-        # Zip together - all arrays should be same length
+        # CoinGecko returns multiple points per day (near midnight and end of day)
+        # Deduplicate by keeping the last (most recent) price per day
+        daily_records = {}
         for i, price_point in enumerate(prices):
             timestamp_ms = price_point[0]
             date = datetime.utcfromtimestamp(timestamp_ms / 1000).strftime("%Y-%m-%d")
 
-            records.append({
+            # Keep last entry per date (overwrites earlier ones)
+            daily_records[date] = {
                 "date": date,
                 "coin_id": coin_id,
                 "price_usd": price_point[1] if len(price_point) > 1 else None,
                 "volume_usd": volumes[i][1] if i < len(volumes) and len(volumes[i]) > 1 else None,
                 "market_cap_usd": market_caps[i][1] if i < len(market_caps) and len(market_caps[i]) > 1 else None,
-            })
+            }
+
+        records.extend(daily_records.values())
 
     if not records:
         print("  No records to transform")

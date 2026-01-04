@@ -12,9 +12,9 @@ def test(table: pa.Table) -> None:
         "columns": {
             "date": "string",
             "coin_id": "string",
-            "price_usd": "float64",
-            "volume_usd": "float64",
-            "market_cap_usd": "float64",
+            "price_usd": "double",
+            "volume_usd": "double",
+            "market_cap_usd": "double",
         },
         "not_null": ["date", "coin_id"],
         "unique": ["date", "coin_id"],

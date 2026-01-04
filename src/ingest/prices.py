@@ -3,7 +3,7 @@
 
 from datetime import datetime, timedelta, timezone
 from subsets_utils import save_raw_json, load_raw_json, load_state, save_state
-from coingecko_client import rate_limited_get, CoinNotFoundError
+from utils import rate_limited_get, CoinNotFoundError
 
 
 def run():
