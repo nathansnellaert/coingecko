@@ -32,9 +32,11 @@ def run():
         print(f"  [{i}/{len(pending)}] {coin_id}...", end=" ")
 
         url = f"https://api.coingecko.com/api/v3/coins/{coin_id}/market_chart"
+        # Free tier limit: 365 days of history per coin.
+        # Full historical data (days=max) requires a paid CoinGecko API plan.
         params = {
             "vs_currency": "usd",
-            "days": "max",  # Fetch all available history (not just 365 days)
+            "days": 365,
             "interval": "daily"
         }
 
