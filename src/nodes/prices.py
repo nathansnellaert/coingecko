@@ -1,13 +1,17 @@
+"""Ingest CoinGecko price history.
 
-"""Ingest CoinGecko price history."""
+This node fetches price history for all tracked coins, saving each coin separately.
+"""
 
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from subsets_utils import save_raw_json, load_raw_json, load_state, save_state
 from coingecko_client import rate_limited_get, CoinNotFoundError
 
 
 def run():
     """Fetch price history for all tracked coins, saving each coin separately."""
+    print("Fetching prices...")
+
     # Get all unique coins we've ever tracked (from coins state)
     coins_state = load_state("coins")
     all_coin_ids = coins_state.get("all_coin_ids", [])
@@ -60,3 +64,14 @@ def run():
         })
 
     print(f"  Total: {len(completed)} coins fetched")
+
+
+from nodes.coins import run as coins_run
+
+NODES = {
+    run: [coins_run],
+}
+
+
+if __name__ == "__main__":
+    run()

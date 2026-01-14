@@ -1,10 +1,11 @@
+"""Ingest CoinGecko coin list.
 
-"""Ingest CoinGecko coin list."""
+This node fetches the top 1000 coins by market cap from CoinGecko API.
+"""
 
 from datetime import datetime, timezone
-from subsets_utils import save_raw_json, load_raw_json, load_state, save_state
+from subsets_utils import save_raw_json, load_state, save_state
 from coingecko_client import rate_limited_get
-import os
 
 # Top 1000 coins by market cap - covers 99%+ of total market cap.
 # CoinGecko lists 10,000+ coins but most are illiquid/defunct.
@@ -13,7 +14,7 @@ TARGET_COUNT = 1000
 
 def run():
     """Fetch top coins by market cap and append to historical list."""
-    print("  Fetching coins...")
+    print("Fetching coins...")
     run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     run_timestamp = datetime.now(timezone.utc).isoformat()
 
@@ -45,7 +46,7 @@ def run():
 
         all_coins.extend(data)
         page += 1
-        print(f"    Page {page - 1}: {len(data)} coins")
+        print(f"  Page {page - 1}: {len(data)} coins")
 
         if len(data) < params["per_page"]:
             break
@@ -75,3 +76,12 @@ def run():
     })
 
     print(f"  Unique coins tracked: {len(all_coin_ids)}")
+
+
+NODES = {
+    run: [],
+}
+
+
+if __name__ == "__main__":
+    run()
