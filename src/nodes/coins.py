@@ -5,7 +5,7 @@ This node fetches the top 1000 coins by market cap from CoinGecko API.
 
 from datetime import datetime, timezone
 from subsets_utils import save_raw_json, load_state, save_state
-from coingecko_client import rate_limited_get
+from connector_utils import rate_limited_get
 
 # Top 1000 coins by market cap - covers 99%+ of total market cap.
 # CoinGecko lists 10,000+ coins but most are illiquid/defunct.

@@ -14,6 +14,7 @@ METADATA = {
     "id": DATASET_ID,
     "title": "CoinGecko Cryptocurrency Prices (Daily)",
     "description": "Daily cryptocurrency prices, trading volumes, and market capitalizations from CoinGecko. Covers top 1000+ coins by market cap with 365 days of history.",
+    "license": "CoinGecko Free API Terms of Service",
     "column_descriptions": {
         "date": "Date of observation (YYYY-MM-DD)",
         "coin_id": "CoinGecko coin identifier (e.g., 'bitcoin', 'ethereum')",

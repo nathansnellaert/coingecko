@@ -5,7 +5,7 @@ This node fetches price history for all tracked coins, saving each coin separate
 
 from datetime import datetime, timezone
 from subsets_utils import save_raw_json, load_raw_json, load_state, save_state
-from coingecko_client import rate_limited_get, CoinNotFoundError
+from connector_utils import rate_limited_get, CoinNotFoundError
 
 
 def run():
