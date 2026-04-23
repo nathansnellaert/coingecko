@@ -4,8 +4,8 @@ This node transforms per-coin raw price files into a single unified dataset.
 """
 
 import pyarrow as pa
-from datetime import datetime
-from subsets_utils import load_raw_json, merge, load_state, validate, publish
+from datetime import datetime, timezone
+from subsets_utils import load_raw_json, merge, load_state, save_state, data_hash, validate, publish
 from subsets_utils.testing import assert_valid_date, assert_positive
 
 DATASET_ID = "coingecko_prices_daily"
@@ -103,7 +103,7 @@ def run():
         daily_records = {}
         for i, price_point in enumerate(prices):
             timestamp_ms = price_point[0]
-            date = datetime.utcfromtimestamp(timestamp_ms / 1000).strftime("%Y-%m-%d")
+            date = datetime.fromtimestamp(timestamp_ms / 1000, tz=timezone.utc).strftime("%Y-%m-%d")
 
             # Keep last entry per date (overwrites earlier ones)
             daily_records[date] = {
@@ -131,10 +131,16 @@ def run():
     table = pa.Table.from_pylist(records, schema=schema)
     print(f"  Transformed {len(table):,} records from {len(coin_ids)} coins")
 
+    h = data_hash(table)
+    if load_state(DATASET_ID).get("hash") == h:
+        print(f"  Skipping {DATASET_ID} - unchanged")
+        return
+
     test(table)
 
     merge(table, DATASET_ID, key=["coin_id", "date"])
     publish(DATASET_ID, METADATA)
+    save_state(DATASET_ID, {"hash": h})
     print("  Done!")
 
 
